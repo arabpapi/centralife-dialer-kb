@@ -1,0 +1,1844 @@
+Insurance Company,Product,Age,Premiums,Insurance Policy fees and provisions,Payments,Benefits,Riders benifits,Product info,Face Amounts,More info,Underwriting classes and process,Description
+Ethos,Ethos Term Life - Prime (by LGA),20-65 (age nearest),Level for specified term period ,"Policy fee ergerthertherthetrh = $76
+Free look Period= 30 days","Method: Debit/Credit, ACH;
+Mode: Monthly; 
+Financial and credit History= Excellent/good credit
+resulting in a favorable
+CBI score;
+Replacements= Available;","covarage = Age 20-50: $100k-$2M
+Age 51-60: $100k-$1M
+Age 61-65: $100K-$500k.","Available riders and perks=Accelerated Death Benefit, Ethos estate planning tools at no additional cost (except WA&SD) ","Risk = Best Risk;
+Health=Excellent/good health with few to no chronic 
+conditions. Any existing chronic conditions 
+are consistently well controlled and receive
+regular follow-up care;
+
+Term Length= Age 20-50: 10, 15, 20, 30 yr 
+Age 51-60: 10, 15, 20 yr
+Age 61-65: 10, 15 yr ;
+State and other exclusions = NY","Face amount eligibility=
+Multiple of annual household income: 
+Age <30: 40x Age 30-39: 35x Age 40-49: 25x Age 50-59: 20x Age 60-65: 10x","Non-working spouses= Based on household Income. Coverage amount cannot be greater than spouse-s total of insurance in-force and applied for. 
+Retired=Maximum $500k
+Single graduate students=Maximum $500k
+Single undergraduate students=Maximum $250k
+Vehicle Violations=Valid license not currently suspended or revoked
+Major violations: none within 5 years
+Minor violations: few to none within 3 years;
+Driving = DUI, DWI, hit-and-run, or reckless driving
+within the past 5 years, or suspended/
+revoked driver?s license within the past year","Underwriting Class=Preferred Plus NonTobacco
+Preferred Non-Tobacco
+Standard Non-Tobacco
+Standard Tobacco
+Table ratings;
+Underwirting Process=Initial review:Application questions and 
+3rd party evidence checks
+APS review for age 61 
+and up,
+Instant vs Underwriter review: 90% instant decision;","Ethos Term Life - Prime provides term life insurance with coverage up to $2 million for individuals aged 20 to 65. The underwriting process involves application questions and third-party evidence checks, with 100% instant decisions."
+Ethos,Ethos Term Life - Spectrum (by  Ameritas Life Insurance Corp.),20-65 (age nearest),Level for specified term period ,"Policy fee = $48
+Free look Period= 30 days","Method: Debit/Credit, ACH;
+Mode: Monthly; 
+Financial and credit History= Good/fair/poor credit
+resulting in mid/high CBI
+score depending on age;
+Replacements= Unavailable;","Covarage= Age 20-45: $50K-$350K 
+(up to $500K for Preferred 
+Plus Non-Tobacco)  
+Age 46?65: $50K?$350K",Available riders and perks=Ethos estate planning tools at no additional cost (except WA&SD) ,"Risk=Moderate Risk;
+
+Health=Good to fair health without signifigant, progressive,
+or debilitating conditions diagnosed or treated within 10 years;
+Term Length= Age 20-50: 10, 15, 20, 30 yr 
+Age 51-60: 10, 15, 20 yr
+Age 61-65: 10, 15 yr;
+State and other exclusions = NY","Face amount eligibility=
+Ages 20-45: $500K if 
+Preferred Plus Non- tobacco, $350K all 
+other premium classes Ages 46-65: $350K","Non-working spouses= Not applicable
+Retired=  Not applicable
+Single graduate students= Not applicable
+Single graduate students= Not applicable
+Single undergraduate students= Not applicable
+Vehicle Violations=Valid license not currently suspended or revoked
+Major violations: none within 5 years
+Minor violations: no excessive number of violations within the last 5 years;
+Driving = DUI, DWI, hit-and-run, or reckless driving
+within the past 5 years, or currently
+suspended/revoked driver?s license","Underwriting Class=Preferred Plus Non-Tobacco
+Preferred Non-Tobacco
+Standard Non-Tobacco
+Standard Tobacco;
+Underwirting Process=Initial review: Application questions and 
+3rd party evidence checks,
+Instant vs Underwriter review: 100% instant decision;","Ethos Term Life - Spectrum offers term life insurance with coverage up to $500,000 for individuals aged 20 to 65. The underwriting process includes application questions and third-party evidence checks, with all decisions made instantly."
+Ethos,Ethos Term Life - Select (by LGA),20-65 (age nearest),Level for specified term period ,"Policy fee = $30
+Free look Period= 30 days","Method: ACH;
+Mode: Monthly;
+Financial & credit history=Fair/poor credit resulting
+in below-average
+CBI score;
+Replacements= Unavailable;",Covarage= $20k-$150k ,Available riders and perks=Ethos estate planning tools at no additional cost (except WA & SD) ,"Risk=Higher Risk;
+
+Health=Average to fair health.Not currently disabled;
+Term Length= Age 20-40: 10, 15, 20, 30 yr 
+Age 41-55: 10, 15, 20 yr
+Age 56-60: 10, 15 yr
+Age 61-65: 10 yr;
+State and other exclusions = FL, NY","Face amount eligibility=
+Not available in WA, WY, SD, IA, MI, NY, VT, NH, RI and ME ","Non-working spouses= Not applicable
+Retired=  Not applicable
+Single graduate students= Not applicable
+Single graduate students= Not applicable
+Single undergraduate students= Not applicable
+Vehicle Violations=Not applicable;
+Driving = Not applicable","Underwriting Class=Single risk class, 
+no Tobacco rates;
+Underwirting Process=Initial review: Application questions and 
+3rd party evidence checks,
+Instant vs Underwriter review: 100% instant decision;","Ethos Term Life offers term life insurance with coverage up to $2 million for individuals aged 20 to 85. The underwriting process involves application questions and third-party evidence checks, with 90% of decisions made instantly."
+Ethos,Ethos IUL (by Ameritas Life Insurance Corp.),20-65 (age nearest),Flexible ,"Policy fee = N/A;
+Free look Period= 30 days","Method: ACH;
+Mode: Monthly;
+Financial & credit history=Good/fair/poor credit
+resulting in mid/high
+CBI score;
+Replacements= Unavailable;","Covarage= $25,000-$1,000,000
+Age 20-50: up to $1M
+Age 51-60: up to $500k
+Age 61-65: up to $350k ","Available riders and perks=
+Included at no cost 
+- Care4Life Accelerated Death Benefit 
+
+- Terminal Illness (for applicants not 
+
+eligible for Care4Life) 
+
+- Lifetime Income rider 
+
+- Overloan Protection Benefit (endorsement 
+
+- Ethos estate planning tools (n/a in WA, SD) 
+
+Available at an additional cost 
+
+- Accidental Death Benefit
+- Waiver of Specified Premium","Risk=Best - Moderate Risk;
+
+Health=Excellent/good health 
+with few to no chronic
+ conditions. Any existing 
+chronic conditions are
+ consistently well
+ controlled and receive
+ regular follow-up care;
+Tern Length=N/A;
+State and other exclusions = NY, CA, FL, ND, OR, SD, SC
+U.S. citizens only
+Max 4 apps from non-Ethos carriers in prior
+12 months","Face amount eligibility=
+Multiple of annual household 
+income:
+Age <30: 40x Age 30-39: 35x Age 40-49: 25x Age 50-59: 20x Age 60-65: 10x","
+Non-working spouses= Based on household income. Coverage amount cannot be greater than spouse-s total of insurance in-force and applied for
+Retired=Maximum $500k
+Single undergraduate students=Maximum $250k
+
+Vehicle Violations = Valid license not currently suspended or revoked
+Major violations: none within 5 years
+Minor violations: few to none within 3 years;
+Driving = DUI, DWI, hit-and-run, or reckless driving
+within the past 5 years, or suspended/
+revoked driver?s license within the past year","Underwriting Class=4 non-tobacco:
+Preferred Plus Non-Tobacco
+Preferred Non-Tobacco 
+Select Non-Tobacco
+Standard Non-Tobacco with table ratings 1-10
+2 tobacco:
+Preferred Tobacco 
+Standard Tobacco with table ratings 1-10;
+Underwirting Process=Initial review: Application questions and 3rd party evidence 
+checks,
+Instant vs Underwriter review: 60%+ instant decision. Potential additional 
+evidence ordered. Applicants not eligible for an 
+instant IUL offer will be routed to manual U/W 
+or TruStageTM Advantage Whole Life.;","Ethos IUL (Index Universal Life) provides index universal life insurance with coverage up to $1 million for individuals aged 20 to 65. The underwriting process includes application questions and third-party evidence checks, resulting in 100% instant decisions."
+Ethos,Ethos Final Expense (by Senior Life Insurance Co.) ,66-85 (age last),Level for specified term period ,"Policy fee = $36
+Free look Period= 30 days","Method: ACH;
+Mode: Monthly;
+Financial & credit history=Not applicable;
+Replacements= Unavailable;","Covarage= Preferred Plus:
+$5k?$30k
+Preferred: $1k?$20k
+Standard: $1k?$20k",Available riders and perks=12 month Legacy Assurance Membership and Ethos estate planning tools at no additional cost (except WA & SD),"
+Health=Average to fair health. Not currently disabled;
+Tern Length=N/A;
+State and other exclusions = WA, WY, SD, IA, MI, NY,
+VT, NH, RI, ME",Face amount eligibility=Not applicable,"Non-working spouses= Not applicable
+Retired=  Not applicable
+Single graduate students= Not applicable
+Single graduate students= Not applicable
+Single undergraduate students= Not applicable
+Vehicle Violations = Not applicable;
+Driving = Not applicable","Underwriting Class=Preferred Plus 
+Preferred
+Standard 
+Tobacco usage 
+places applicant into 
+Preferred or Standard 
+health class based on 
+last use data;
+Underwirting Process=Initial review: Application questions 
+and 3rd party evidence 
+checks,
+Instant vs Underwriter review: 100% instant decision;","Ethos Final Expense is a whole life insurance product designed for final expenses, offering coverage for preferred and standard classes ranging from $1,000 to $20,000. It is available to individuals aged 20 to 85. The underwriting process consists of application questions and third-party evidence checks, with all decisions made instantly."
+Ethos,TruStageTM Term Life (by CMFG Life Insurance Company),18-69 (age last),Increasing (every 5 attained ages),"Policy fee = Band 1: $30 
+Band 2: $60
+Free look Period= 30 days","Method: Debit/Credit, ACH;
+Mode: Monthly, Quarterly, Bi-Annually, Annually;
+Financial & credit history=Good/fair/poor credit
+resulting in medium
+CBI score depending
+on age;
+Replacements= Unavailable;","Covarage= Band 1 (Age 25-69): $5k-$100k
+Band 2 (Age 18-69): $101k-$300k        ",Available riders and perks=None ,"Health=Average to fair health. Not currently disabled;
+Term Length= Annually renewable to age 80;
+State and other exclusions = NY",Face amount eligibility=Not applicable,"Non-working spouses= Not applicable
+Retired=  Not applicable
+Single graduate students= Not applicable
+Single graduate students= Not applicable
+Single undergraduate students= Not applicable
+Vehicle Violations = Not applicable;","Underwriting Class=Band 1: Single risk 
+class, no Tobacco 
+rates
+Band 2: NonTobacco and 
+Tobacco rates;
+Underwirting Process=Initial review: Application 
+questions and 3rd 
+party evidence 
+checks,
+Instant vs Underwriter review: 100% instant decision;","TruStage Term Life provides term life insurance with increasing coverage, available up to $300,000 for individuals aged 20 to 69. The underwriting process includes application questions and third-party evidence checks, with over 60% of decisions made instantly."
+Ethos,TruStageTM Advantage Whole Life (by MEMBERS Life Insurance Company),18-85 (age last),Level for specified term period ,"Policy fee = $36
+Free look Period= 30 days","Method: Debit/Credit, ACH;
+Mode: Monthly, Quarterly, Bi-Annually, Annually;
+Financial & credit history=Good/fair/poor credit
+resulting in medium
+CBI score depending
+on age;
+Replacements= Unavailable;","Covarage= Age 18-70: $5k-$100k   
+Age 71?75:
+$5k?$50k
+Age 76?85:
+$5k?$25k",Available riders and perks=None ,"Health=Good to fair health. Not currently disabled;
+Tern Length=N/A;
+State and other exclusions = CT, NY",Face amount eligibility=Not applicable,"Non-working spouses= Not applicable
+Retired=  Not applicable
+Single graduate students= Not applicable
+Single graduate students= Not applicable
+Single undergraduate students= Not applicable
+Vehicle Violations=Not applicable;","Underwriting Class=Non-Tobacco and 
+Tobacco rates;
+Underwirting Process=Initial review: Application 
+questions and 3rd 
+party evidence 
+checks,
+Instant vs Underwriter review: 100% instant decision;","TruStage Advantage Whole Life offers whole life insurance with coverage up to $100,000 for individuals aged 20 to 85. The underwriting process involves application questions and third-party evidence checks, with 100% instant decisions."
+Ethos,TruStageTM Guaranteed Acceptance Whole Life (by CMFG Life Insurance Company),45-80 (age last),Level for specified term period ,"Policy fee = N/A;
+Free look Period= 30 days","Method: Debit/Credit, ACH;
+Mode: Monthly, Quarterly, Bi-Annually, Annually;
+Financial & credit history=Fair/poor credit
+history making them
+ineligible for other
+policy types;
+Replacements= Unavailable;","Covarage= $2k-$20k. Death benefit in first 2 years is limited to return
+ of 100% of premium, plus 10%     ",Available riders and perks=None ,"Health=Poor health;
+Tern Length=N/A;
+State and other exclusions = WA, NY",Face amount eligibility=Not applicable,"Non-working spouses= Not applicable
+Retired=  Not applicable
+Single graduate students= Not applicable
+Single graduate students= Not applicable
+Single undergraduate students= Not applicable
+Vehicle Violations = Not applicable;","Underwriting Class=N/A;
+Underwirting Process=Initial review: N/A,
+Instant vs Underwriter review: 100% instant decision;","TruStage Guaranteed Acceptance Whole Life is a whole life insurance product with guaranteed acceptance, offering coverage up to $20,000 with a graded death benefit. It is available to individuals aged 45 to 80. The underwriting process consists of application questions and third-party evidence checks, with all decisions made instantly."
+ LAFAYETTE LIFE INSURANCE COMPANY, Protector Simplified Issue Whole Life Insurance,40?85 (age last birthday),"Premium Plan=Level-Pay for Life, Single Premium;"," Policy fee=
+$30 policy fee included. Ages 40?80 = $25,000-$50,000 maximum face amount; Ages 81?85 = $10,000 maximum face amount,
+$50 policy fee not included. Ages 40?80 = $100,000 maximum or maximum face amount of $250,000 (see page 15); Ages 81?85 = $25,000 maximum premium.;",,"Benefit Amount=Net death benefit at time of payment, discounted for one year at policy loan interest rate","ACCELERATED DEATH BENEFIT RIDER=
+The Accelerated Death Benefit Rider (ICC14 LLR-06 
+1408) may be exercised if either of the following apply:
+* The insured?s life expectancy is 12 months or less 
+due to a terminal illness.
+* The insured is confined to an eligible nursing 
+home and is expected to stay there until 
+death due to a specific diagnosed accident or 
+sickness condition.
+The benefit available is the net death benefit 
+(death benefit less any existing loans) at the time 
+the accelerated death benefit is paid discounted for 
+one year at the policy loan interest rate in effect at 
+the time the benefit is paid","Type= Whole life, non-participating insurance
+Policy Limitation:  Policy may only be issued at the lessor of: Maximum Premium
+of $100,000 or Maximum Face Amount of $250,000","Ages 40?80: Lesser of $100,000 premium or $250,000 face amount(Single Premium)
+Ages 40?80: $50,000 - Ages 81?85: $10,000 face amount(Level-Pay)
+Minimum Face Amount = $3,000 for all ages and premium plans
+Level-Pay ? Maximum Face Amounts:
+ Ages 40?80: $50,000
+ Ages 81?85: $10,000",,,"APPLICATION
+Use your state?s version of ICC14 LL-1462 (10/19) 
+or ICC14 LL-1462-NO GDB (10/19).
+Use your state?s version of the Disclosure Statement 
+for Accelerated Death Benefit Rider: ICC14-LL-2716 
+11/14"
+ LAFAYETTE LIFE INSURANCE COMPANY,Protector 2022 Graded Death Benefit,40?85 (age last birthday),Level-Pay for Life," Policy fee=
+$30 policy fee included. Ages 40?80 = $25,000-$50,000 maximum face amount; Ages 81?85 = $10,000 maximum face amount,
+$50 policy fee not included. Ages 40?80 = $100,000 maximum or maximum face amount of $250,000 (see page 15); Ages 81?85 = $25,000 maximum premium.;",,"The graded death benefit will be a return of premium accumulated at a 10% interest rate for the first three 
+years, (but not to exceed $1,000 for every $1,000 of face amount) unless death is by accidental means. 
+If death is by accidental means in the first three policy years, 100% of the death benefit will be paid.
+Accidental: The death benefit is a level $1,000 
+for every $1,000 of face amount.
+Not Accidental: The death benefit is the annual 
+mode gross premiums accumulated at 10% 
+interest compounded annually (but not to exceed 
+$1,000) for every $1,000 of face amount. 
+After the Modified Benefit Period, the amount 
+of insurance is a level $1,000 for every $1,000 
+of face amount","NON-TOBACCO DISCOUNT AND 
+ACCELERATED DEATH BENEFIT RIDER 
+Not Available.
+If Graded Death Benefit (GDB) is offered by
+Underwriting, an amendment will be required.
+New Business will send the required form
+1603-SR (MEC), and the amendment that can
+be signed on delivery at that time","Type= Whole life, non-participating insurance
+Policy Limitation:  Policy may only be issued at the lessor of: Maximum Premium
+of $100,000 or Maximum Face Amount of $250,001","Face Amounts Ages 40?80: $3,000 ? $25,000 , Ages 81?85: $3,000 ? $10,000",,, 
+ LAFAYETTE LIFE INSURANCE COMPANY,Contender 2022,"Standard: 0?85 , Preferred: 18?80","Payable to age 95 or 20 years, whichever is longer",,"Policy loans = Available when policy has accumulated net cash value. Loans 
+will accrue interest. Loans and withdrawals may generate 
+an income tax liability, reduce the cash value and the death 
+benefit if not repaid, and may cause the policy to lapse;
+DIVIDEND OPTIONS=
+ Purchase Paid-Up Additions (PUA)
+ Accumulate at Interest
+ Premium Payment
+ Paid in Cash;","The CONTENDER 2022 policy with a $500,000 coverage offers significant cash and death benefits over time. At age 50, the guaranteed cash value is $93,745, while the non-guaranteed cash value is $201,256. By age 65, these values increase substantially, with the guaranteed cash value reaching $220,845 and the non-guaranteed cash value rising to $622,675. The guaranteed death benefit remains at $500,000 at age 65, while the non-guaranteed death benefit can increase to $1,104,863.","Accelerated Death Benefit Plus Rider (No)
+Accelerated Death Benefit Rider (No)
+Fixed Premium Paid-Up Additions Rider (Yes)
+Level Premium Paid-Up Additions Rider (Yes)
+Single Premium Paid-Up Additions Rider (Yes)
+Term Life Rider 2022: 7-, 10-, 15-, 20-, 30-year term (Yes)
+Children?s Insurance Rider 2022 (Yes)
+Waiver of Premium Disability Benefit Rider (Yes)
+Premium Deposit Fund Rider (No)
+Premium Deposit Fund Max Rider (Yes)
+Accidental Death Benefit Rider (Yes)
+Option to Purchase Additional Insurance Rider (Yes)","DIVIDENDS=
+Dividends are not guaranteed and may be changed by the 
+company at any time and for any reason. 
+Dividends are not affected by policy loans. Any dividend for 
+the first policy year will be credited upon payment of the 
+premium for the second policy year. (By current company 
+practice and subject to change, the first year?s dividend will 
+be payable upon the payment of the first modal premium 
+of the second policy year.) Any subsequent dividend will be 
+credited on the policy anniversary. 
+A pro rata dividend for the current policy year is paid on 
+death. Dividends will vary by issue age and duration, sex, 
+tobacco usage, risk class and face amount band.","Minimum amount issue=Qualified: $1,000 (No Tobacco/Tobacco), $100,000 (Preferred) - Non-Qualified: $5,000 (No Tobacco/Tobacco), $100,000 (Preferred);","MARKET DESCRIPTION=
+There is almost always the need for insurance protection 
+and cash-value accumulation. However, the temptation is to 
+buy term protection thinking the clients will save the most 
+money possible. In reality, the term protection gets more 
+expensive, eventually lapses, and the money they were 
+trying to save goes everywhere but savings. 
+This is why combining protection with long-term cash value 
+can be the real value for many families. The necessity to 
+pay the premium to maintain the coverage provides the 
+discipline to accumulate cash values over the long term.","Underwriting Class=Super Preferred No Tobacco 
+, Preferred No Tobacco , Preferred Tobacco 
+, Standard No Tobacco , Standard Tobacco,
+Only a Standard class is available if age 0?17.;","Contender 2022 (ICC21 LL-01 2104) is a whole life insurance policy designed to balance death-benefit protection with cash-value accumulation, especially in later policy years.
+POLICY MATURITY: Age 121
+Contender 2022 also provides
+* Guaranteed death benefit.
+* Guaranteed cash value.
+* Ability to increase cash-value accumulations and death 
+benefits through the use of riders.
+* Dividend options that may enhance cash values and/or 
+death benefits, or reduce out-of-pocket premium.
+* Access to policy values through low-cost policy loans 
+or withdrawals.
+* Access to living benefits through the Accelerated Death 
+Benefit PLUS Rider at no additional premium."
+ LAFAYETTE LIFE INSURANCE COMPANY,Heritage 2022,"0?85 for Standard underwriting classes* 
+18?80 for Preferred underwriting classes
+* Qualified: minimum issue age is 18.","Payable to age 100 or 20 years, whichever is longer",,"Policy Loans= Available when policy has accumulated net cash value. Loans will accrue interest. Loans and withdrawals may generate an income tax liability, reduce the cash value and the death benefit if not repaid, and may cause the policy to lapse.","Heritage 2022 Advantages=
+Using the Heritage policy as the financial tool for this 
+protection has the following advantages:
+* Guaranteed premium ? the premium will not increase.
+* Guaranteed cash value ? annual growth in cash value.
+* Potential for additional cash value if optional dividendpaying paid-up additions riders are added to the policy.6
+* Cash values that may be accessed through policy loans or 
+withdrawals.
+* Death benefit will not lapse as long as the premium is paid 
+and policy loans do not exceed cash value.
+* Death benefit is generally income tax free to beneficiaries.
+* Access to living benefits through the Accelerated Death 
+Benefit Plus Rider at no additional premium.;
+HERITAGE 2022 ? AGE 70=
+Guaranteed Cash Value $402,289
+Non-Guaranteed Cash Value $462,922
+Guaranteed Death Benefit $867,579
+Non-Guaranteed Death Benefit $977,550;","Accelerated Death Benefit Plus Rider: No additional premium required.
+Accelerated Death Benefit Rider: No additional premium required.
+Fixed Premium Paid-Up Additions Rider (FPUA 2022): Additional premium required.
+Level Premium Paid-Up Additions Rider (LPUA 2022): Additional premium required.
+Single Premium Paid-Up Additions Rider (SPUA 2022): Additional premium required.
+Term Life Rider 2022 (7-, 10-, 15-, 20-, 30-year term): Additional premium required.
+Children?s Insurance Rider 2022: Additional premium required.
+Waiver of Premium Disability Benefit Rider: Additional premium required.
+Premium Deposit Fund Max Rider (PDF Max): Additional premium required.
+Accidental Death Benefit Rider: Additional premium required.
+Option to Purchase Additional Insurance Rider (OPAI): Additional premium required.",Type= Whole Life Insurance,"Minimum Face Amount Issued=
+No Tobacco/Tobacco Users:
+Qualified: $1,000 (Standard), $5,000 (Preferred)
+Non-Tobacco Users:
+Preferred: $100,000","MARKET DESCRIPTION=The Heritage policy is appropriate when a permanent policy 
+is desired and cash-value accumulation is less important 
+than death-benefit protection. This includes estate planning 
+situations where insurance will be placed in an irrevocable 
+life insurance trust, buy-sell agreements, or basic family 
+coverage needs. 
+For example, many people have a need for a low premium, 
+permanent insurance product that will serve as an alternative 
+to term insurance and help provide protection for their 
+family?s lifestyle.;","Underwriting Class=Super Preferred No Tobacco 
+, Preferred No Tobacco , Preferred Tobacco 
+, Standard No Tobacco , Standard Tobacco","Heritage 2022 (ICC21 LL-08 2104) is a non-dividend paying 
+whole life insurance policy designed to give the client the 
+most death benefit for each premium dollar spent.;
+POLICY MATURITY=Age 121;"
+ LAFAYETTE LIFE INSURANCE COMPANY,Patriot 2022," 0?85 for Standard underwriting classes*
+18?80 for Preferred underwriting classes
+Qualified: minimum issue age is 18","Payable to age 75 or 30 years, whichever is longer",,"Policy Loans= Available when policy has accumulated net cash value. Loans will accrue interest. Loans and withdrawals may generate an income tax liability, reduce the cash value and the death benefit if not repaid, and may cause the policy to lapse","PATRIOT 2022 ? AGE 65
+Guaranteed Cash Value $196,215
+Non-Guaranteed Cash Value $325,814
+Guaranteed Death Benefit $415,528
+Non-Guaranteed Death Benefit $600,316","Accelerated Death Benefit Plus Rider: No additional premium required.
+Accelerated Death Benefit Rider: No additional premium required.
+Fixed Premium Paid-Up Additions Rider (FPUA 2022): Additional premium required.
+Level Premium Paid-Up Additions Rider (LPUA 2022): Additional premium required.
+Single Premium Paid-Up Additions Rider (SPUA 2022): Additional premium required.
+Term Life Rider 2022: Available in 7-, 10-, 15-, 20-, and 30-year terms; additional premium required.
+Children?s Insurance Rider 2022: Additional premium required.
+Waiver of Premium Disability Benefit Rider: Additional premium required.
+Premium Deposit Fund Rider (PDF): No additional premium required.
+Premium Deposit Fund Max Rider (PDF Max): Additional premium required; only available at issue.
+Accidental Death Benefit Rider: Additional premium required.
+Option to Purchase Additional Insurance Rider (OPAI): Additional premium required; subject to underwriting approval.
+Terminal Dividend Endorsement: No additional premium required; policies must include an SPUA rider for sufficient value.","Type= Whole Life Insurance
+DIVIDENDS=Dividends are not guaranteed and may be changed by the 
+company at any time and for any reason. 
+Dividends are not affected by policy loans. Any dividend for 
+the first policy year will be credited upon payment of the 
+premium for the second policy year. (By current company 
+practice and subject to change, the first year?s dividend will 
+be payable upon the payment of the first modal premium 
+of the second policy year.) Any subsequent dividend will be 
+credited on the policy anniversary. 
+A pro rata dividend for the current policy year is paid on 
+death. Dividends will vary by issue age and duration, sex, 
+tobacco usage, risk class and face amount band.;
+MARKET DESCRIPTION=In addition to providing a death benefit, a permanent life 
+insurance policy can be a valuable tool for accumulating 
+cash value and putting it to use. Patriot, particularly when 
+used in conjunction with the Level Premium Paid-Up 
+Additions Rider or Fixed Premium Paid-Up Additions Rider, 
+offers early cash-value accumulation and the ability to access 
+the cash value through partial surrenders, and the ability to 
+borrow against the cash value through loans. 
+The Level Premium Paid-Up Additions rider has the additional flexibility of allowing rider premiums to be increased 
+or reduced in order to enhance cash-value accumulation;","MINIMUM AMOUNT ISSUED=Qualified and Non-Qualified
+No Tobacco/Tobacco: $25,000
+Preferred: $100,000","Patriot 2022 also provides=
+* Guaranteed death benefit.
+* Guaranteed cash value.
+* Ability to increase cash-value accumulations through the 
+use of riders.
+* Dividend options that may enhance cash values and/or 
+death benefits, or reduce out-of-pocket premium.
+* Access to policy values through withdrawals.
+* Ability to obtain loans against the policy values.
+* Access to living benefits through the Accelerated Death 
+Benefit Plus Rider at no additional premium.;","Underwriting Class=Super Preferred No Tobacco 
+, Preferred No Tobacco , Preferred Tobacco 
+, Standard No Tobacco , Standard Tobacco,
+Only a Standard class is available if age 0?17","Patriot 2022 (ICC21 LL-01 2104) is a whole life insurance 
+policy designed for limited premium payments with early 
+cash-value growth and accumulation.
+POLICY MATURITY= Age 121;"
+ LAFAYETTE LIFE INSURANCE COMPANY,Sentinel 2022,"0?85 for Standard underwriting classes*
+18?80 for Preferred underwriting classes
+* Qualified: minimum issue age is 18.","Payable to age 65 or 20 years, whichever is longer",,"Policy Loans= Available when policy has accumulated net cash value. Loans will accrue interest. Loans and withdrawals may generate an income tax liability, reduce the cash value and the death benefit if not repaid, and may cause the policy to lapse","The SENTINEL 2022 policy for a $100,000 coverage on a male preferred nonsmoker features annual premiums that increase with age at issue: $4,725 at age 25, $5,731 at age 35, $6,910 at age 45, $8,327 at age 55, and $10,095 at age 65. The first-year guaranteed cash value is 39-40% of the premium, while the first-year dividend is 35% of the premium. The first-year non-guaranteed cash value ranges from $3,514 to $7,541, representing 74-75% of the premium.","Accelerated Death Benefit Plus Rider 3 No
+? Accelerated Death Benefit Rider 4 No
+? Fixed Premium Paid-Up Additions Rider
+(FPUA 2022) Yes
+? Level Premium Paid-Up Additions Rider
+(LPUA 2022) Yes
+? Single Premium Paid-Up Additions Rider 
+(SPUA 2022) Yes
+? Term Life Rider 2022: 7-, 10-, 15-, 20-, 
+30-year term Yes
+? Children?s Insurance Rider 2022 Yes
+? Waiver of Premium Disability Benefit Rider Yes
+? Premium Deposit Fund Rider (PDF) 5 No
+? Premium Deposit Fund Max Rider (PDF Max) Yes
+? Accidental Death Benefit Rider Yes
+? Option to Purchase Additional Insurance 
+Rider (OPAI) 6 Yes","Type= Whole Life Insurance
+Dividends =Dividends in the Sentinel 2022 whole life insurance policy are non-guaranteed returns of excess premiums or investment earnings distributed by the insurance company to policyholders. They vary annually based on the company's financial performance and other factors. Policyholders can choose how to use dividends, including purchasing additional insurance (paid-up additions), accumulating at interest within the policy, reducing future premiums, or receiving as cash. Dividends help enhance the policy's cash value and death benefit beyond guaranteed amounts, offering flexibility and potential tax advantages. It's essential to note that dividend amounts are not guaranteed and can fluctuate over time.","Minimum= No Tobacco/Tobacco: $25,000 minimum face amount.
+Preferred: $100,000 minimum face amount.","MARKET DESCRIPTION
+Sentinel is primarily designed to help provide valuable asset 
+protection to businesses where permanent life insurance is 
+appropriate. This includes: Deferred Compensation, Split Dollar, Key Employee Coverage, Buy-Sell Agreements, and 
+Section 162 Executive Benefit Plans. 
+The lack of cash value in the early years of many insurance 
+policies might concern policy owners. Sentinel responds 
+with non-guaranteed cash value that is more than 74% of 
+the premium paid by the end of the first year; guaranteed 
+cash value that is almost 40% of the first year premium; and 
+a projected dividend* that is roughly 35% of the first year 
+premium. Based on a $100,000 male preferred nonsmoker 
+policy, the percentages are as follows in the chart below. 
+These early cash values may be used in a variety of ways.","Underwriting Class=
+RATE CLASSES: Super Preferred No Tobacco 
+, Preferred No Tobacco , Preferred Tobacco 
+, Standard No Tobacco , Standard Tobacco","Sentinel 2022 (ICC21 LL-01 2104) is a whole life insurance 
+policy designed for limited premium payments with early 
+cash-value accumulation.
+POLICY MATURITY: Age 121"
+ LAFAYETTE LIFE INSURANCE COMPANY,10 Pay Life 2022," 0?85 for Standard underwriting classes*
+18?80 for Preferred underwriting classes
+* Qualified: minimum issue age is 18.",Payable for 10 years,,"Policy Loans= Available when policy has accumulated net cash value. Loans will accrue interest. Loans and withdrawals may generate an income tax liability, reduce the cash value and the death benefit if not repaid, and may cause the policy to lapse","The 10 PAY LIFE 2022 policy with a $250,000 coverage provides substantial benefits by age 65. The guaranteed cash value at age 65 is $170,795, while the non-guaranteed cash value is $309,976. The guaranteed death benefit remains at $250,000, and the non-guaranteed death benefit can increase to $449,686.","? Accelerated Death Benefit Plus Rider 2 No
+? Accelerated Death Benefit Rider 3 No
+? Fixed Premium Paid-Up Additions Rider (FPUA 2022) Yes
+? Level Premium Paid-Up Additions Rider (LPUA 2022) Yes
+? Single Premium Paid-Up Additions Rider  (SPUA 2022) Yes
+? Term Life Rider 2022: 7-, 10-, 15-, 20-,  30-year term Yes
+? Children?s Insurance Rider 2022 Yes
+? Waiver of Premium Disability Benefit Rider Yes
+? Premium Deposit Fund Rider (PDF) 4 No
+? Premium Deposit Fund Max Rider (PDF Max) Yes","Type= Whole Life Insurance
+DIVIDENDS = 
+Dividends are not guaranteed and may be changed by the 
+company at any time and for any reason. 
+Dividends are not affected by policy loans. Any dividend for 
+the first policy year will be credited upon payment of the 
+premium for the second policy year. (By current company 
+practice and subject to change, the first year?s dividend will 
+be payable upon the payment of the first modal premium 
+of the second policy year.) Any subsequent dividend will be 
+credited on the policy anniversary. 
+LL-2698 (10/23)
+10 Pay Life 2022
+WHOLE LIFE INSURANCE
+A pro rata dividend for the current policy year is paid on 
+death. Dividends will vary by issue age and duration, sex, 
+tobacco usage, risk class and face amount band.
+DIVIDEND OPTIONS=
+? Purchase Paid-Up Additions (PUA)
+? Accumulate at Interest (Minimum Interest Rate 1%)
+? Premium Payment
+? Paid in Cash","MINIMUM AMOUNT ISSUED
+Qualified and Non-Qualified
+No Tobacco/Tobacco: $25,000
+Preferred: $100,000","MARKET DESCRIPTION
+10 Pay Life is a limited pay policy designed for people who 
+want permanent life insurance protection with guaranteed 
+cash-value accumulation that will be paid-up after 10 years. 
+This may include those who will be retiring soon and have 
+a continuing need for life insurance, or are looking to 
+supplement retirement income. It?s also beneficial to those 
+who want to save for specific events in the future, or those 
+who wish to make a gift of life insurance but desire a limited 
+amount of time to fund it.
+When used in conjunction with the Single Premium Paid Up Additions Rider,5 10 Pay Life offers an effective way to 
+accumulate cash value more rapidly in the policy and the 
+ability to access the cash value through loans or partial 
+surrenders.
+
+10 Pay Life 2022 also provides=
+? A guaranteed level premium, payable for 10 years.
+? Guaranteed death benefit.
+? Guaranteed cash value.
+? Ability to increase the death benefit and cash-value 
+accumulations through the use of riders.
+? Dividend options that may enhance cash values and/or 
+death benefits, or reduce out-of-pocket premium","Underwriting Class=Super Preferred No Tobacco 
+, Preferred No Tobacco , Preferred Tobacco 
+, Standard No Tobacco , Standard Tobacco","10 Pay Life 2022 (ICC21 LL-01 2104) is a limited premium 
+whole life policy designed to be paid up after 10 level 
+annual premium payments, and offers a permanent death 
+benefit and guaranteed cash-value growth.
+POLICY MATURITY: Age 121"
+Mutual of Omaha,Income Advantage IUL,"0-17: Standard (nontobacco) only
+18-80: Preferred Plus (nontobacco)
+Preferred (nontobacco and tobacco)
+Standard Plus (nontobacco)
+Standard (nontobacco and tobacco)
+81-85: Standard (nontobacco and tobacco) only
+Policies can be backdated up to six months to save age.","Premiums are flexible and the planned premium may be changed beginning in year two.
+Additional premium payments are allowed at any time, subject to tax law restrictions."," 
+Surrender Charges= First 14 years;
+Expense Loads= Monthly Deductions:
+Monthly expense charge: Current: $5, plus a monthly charge per $1,000 of Specified Amount; Guaranteed: $10, plus a monthly charge per $1,000 of Specified Amount
+Cost of insurance for the current month
+Cost of riders for the current month
+Premium Charge
+Current : 4.5% up to the target
+3% in excess of the target Guaranteed = 10% of each premium;
+Fees and charges=Monthly Deductions: A monthly deduction is taken from the accumulation value. The
+monthly deduction includes:
+* Monthly expense charge:
+Current: $5, plus a monthly charge per $1,000 of Specified Amount
+Guaranteed (maximum): $10, plus a monthly charge per $1,000 of Specified Amount
+* Cost of insurance for the current month
+* Cost of riders for the current month
+Premium Charges: A premium charge is applied to each premium made under the policy.
+* Current: 4.5% of premium up to the Target Premium in each policy year; 3% of premium in
+excess of the Target Premium in each policy year.
+* Guaranteed (maximum): 15% of each premium payment
+Surrender Charges: Surrender charges will be deducted from the accumulation value if the
+policy is surrendered during the first 14 policy years. Surrender charges are based on the
+insured?s issue age, gender, risk class and the length of time the policy has been in force.;
+Policy Loan= Standard Loan
+Years 1-9: Charge 4% (in arrears) Credit 2%
+Years 10+: Charge 2% (in arrears) Credit 2%
+Index Loan
+Charge: Currently declared and not to exceed 6 percent Credit: Based on Index Crediting Strategy Performance;","
+
+Accumulation Value=This policy may build an accumulation value that earns interest based on the performance of crediting strategies that are linked to the chosen index and a fixed account;","Minimum intial Death Benefit=  $100,000
+Guaranteed Interest Rate= 2% on fixed account;
+Partial Withdrawals = Partial withdrawals are available from the surrender value after the first policy anniversary.
+The minimum withdrawal is $100. Withdrawals may not exceed 90% of the surrender value
+during the first 14 years and 100% of the surrender value thereafter; minus the sum of the
+next three monthly deductions.
+No index credit will be given if funds are withdrawn from a segment before the segment
+maturity date.
+Surrender Value: The amount the policyowner will receive if they surrender their policy
+before the policy maturity date. The surrender value equals the accumulation value,
+minus any surrender charges and loans;
+Death Benefit Options=Two options are available to the policyowner:
+Option 1: (Level) The specified amount of insurance in effect on the insured?s date of death
+Option 2: (Increasing) The specified amount of insurance in effect on the insured?s date of
+death plus the accumulation value on that date
+The death benefit may be increased with either Option 1 or Option 2 in order to qualify as
+life insurance under the Internal Revenue Code of 1986, as amended.;","The policy automatically includes the Accelerated Death Benefit for Terminal and Chronic Illness Riders (ICC13L098R and ICC13L099R or state equivalent). These riders are available at issue on all policies, providing an accelerated death benefit in cases of terminal or chronic illness. If the client applies for the Long-Term Care Rider and is approved, the Chronic Illness Rider will not be issued. The Terminal Illness Rider offers benefits if the insured's life expectancy is 12 months or less, with a maximum requested benefit of $1,000,000 or 80% of the specified amount. The Chronic Illness Rider provides benefits if the insured cannot perform 2 of 6 Activities of Daily Living (ADLs) for 90 consecutive days or needs substantial supervision due to severe cognitive impairment, with a similar benefit limit. State-specific variations apply, such as in California, where the maximum benefit is $500,000 or 80% of the specified amount.
+
+Additionally, the Guaranteed Refund Option Rider (Enhanced Surrender Value Rider ? ICC14L125R, or state equivalent) is included for qualifying policies, except for substandard or tobacco cases under age 50, or substandard tables 5-16 at ages 50 and above. This rider refunds some or all premiums paid upon full surrender of the policy during a 60-day period following the 15th and 20th through 25th policy anniversaries. The refund is 50% of the accumulated premium at year 15 and 100% for years 20-25, not exceeding 80% of the specified amount, and requires policy surrender. Minimum premium requirements must be met to keep the rider in force, and it terminates if not exercised by the end of the 60-day period following the 25th anniversary.
+
+The Lapse Guard? Rider (C507LNA08R or state equivalent) is automatically attached to all policies with issue ages 0-75. It is designed to prevent lapses in policies that have been over-funded with level disbursements taken during retirement. This rider ensures that no policy loans become taxable as income and reduces the accumulation value by 3% upon exercise.
+
+For optional riders available for purchase, the Long-Term Care (LTC) Rider (ICC17L166R or state equivalent) is available for issue ages 30-79. To qualify, the insured must be a Table 4 or better with no flat extra ratings on their base life insurance policy. This rider allows the policyowner to access part or all of the death benefit early for covered long-term care services. Clients choose an LTC rider benefit limit and a monthly acceleration percentage (1%, 2%, or 4%). The benefit limits range from $150,000 to $2 million depending on the percentage selected and state regulations. The LTC Rider is underwritten separately, with charges based on various factors and guaranteed not to increase. Benefits are provided if the insured cannot perform 2 of 6 ADLs for 90 days or requires substantial supervision due to cognitive impairment. The rider reimburses for expenses like nursing home, assisted living, home health care, adult day care, bed reservation, and certain stay-at-home benefits. Designed to be tax-qualified under Section 7702B(b) of the Internal Revenue Code, this status is intended but not guaranteed.","
+No-Lapse Protection=This is the minimum initial premium. By paying the no-lapse protection premium, the death
+benefit will be guaranteed as follows (based on the client?s issue age):
+0-75: 10 years
+76-80: To age 85
+80+: 5 years
+After the no-lapse protection period, the policy can continue on a non-guaranteed basis
+for the client?s lifetime. How long the death benefit protection lasts beyond the no-lapse
+protection period is based on the amount and timing of the premium payments, the
+amount of interest credited to the policy, and the policy charges.;
+Payment methods = 
+Pay with your Visa, MasterCard, or Discover credit card or debit card, with Apple Pay, or with your bank account.;","$100,000 and up
+(First Year Premium over $10,000,000 requires home office
+approval.)","Policy Form Number= ICC15L123P (or state equivalent); Unisex: ICC15L124P (or state equivalent);
+Life Insurance=Qualification Test Guideline Premium Test (GPT);
+Index Interest=
+Crediting Strategies
+Four index interest crediting strategies are available. All strategies use the annual point-topoint crediting method and all are based on the performance of the chosen index.
+The participation rates and caps are declared monthly and can be found on the Life product
+page on our Sales Professional Access website. The minimum index interest crediting rate
+(the floor) for all four strategies is 0%.
+* S&P 500? 100% Participation
+* S&P 500? One-Year High Participation
+* S&P 500? One-Year Uncapped
+* BofA U.S. Agility Index: One-Year Uncapped
+Index segments are created on the 10th of a policy month and mature after one year.;","Underwriting Class=Preferred Plus NT, Preferred NT, Standard Plus NT,
+Standard NT, Preferred T, Standard T;
+Table Rates= Tables 1 (A) to 16 (P);","Description and details=Income Advantage Indexed Universal Life (IUL) offers flexible protection with the potential for cash value growth linked to indexed strategies. This product includes features such as a guaranteed refund option, lapse guard protection, and a wash loan feature in later years. The policy matures at age 120 and allows for multiple index crediting strategies to suit various investment preferences;
+Policy Exclusions and Limitations=
+The death benefit will not be paid if the insured?s death results from suicide, while sane
+or insane, within two years from the date of issue. Instead, we will pay the sum of the
+premiums paid since issue, less any loan and loan interest due and any withdrawals.
+Exclusions and limitations may vary by state.;
+Policy Maturity Age= The policy will mature at age 120. Upon maturity, if the insured is still living, the surrender
+value will be paid.;"
+Mutual of Omaha,Life Protection Advantage IUL,"0-17: Standard (nontobacco) only
+18-80: Preferred Plus (nontobacco)
+Preferred (nontobacco and tobacco)
+Standard Plus (nontobacco)
+Standard (nontobacco and tobacco)
+81-85: Standard (nontobacco and tobacco) only
+Policies can be backdated up to six months to save age.","Premiums are flexible and the planned premium may be changed beginning in year two.
+Additional premium payments are allowed at any time, subject to tax law restrictions.","Surrender Charges= First 14 years.;
+Expense Loads=Monthly Deductions:
+Monthly expense charge: Current: $5, plus a monthly charge
+per $1,000 of Specified Amount; Guaranteed: $10, plus a
+monthly charge per $1,000 of Specified Amount
+Cost of insurance for the current month
+Cost of riders for the current month
+Premium Charge
+Current : 4% up to the target
+7.5% in excess of the target
+Guaranteed : 10% of each premium;","Loans= Policyholders can take loans against their policy as long as there is positive cash value, with a minimum of $100 per loan. Two types of loans are available: standard and index loans. Standard loans incur a 4% interest charge (1-9 years) or 2% (10+ years), with a 2% interest credit. Index loans have interest rates up to 6%, credited based on chosen index interest crediting rates.;
+Fees and Charges = Monthly Deductions: Include a $5 to $10 fee plus a charge per $1,000 of the specified amount, covering expenses, insurance costs, and rider fees.
+Premium Charges: Up to 4% of the premium towards the Target Premium per policy year, and 7.5% of any excess. Maximum charges can be 10%.
+Surrender Charges: Deducted if the policy is surrendered within the first 14 years, varying by insured's age, gender, risk class, and policy duration.","Minimum Initial
+Death Benefit=  $100,000;
+Fixed Account Interest Rate= The fixed account will be credited at our currently declared crediting rate. The minimum
+guaranteed fixed account crediting rate is 2%;
+Partial Withdrawals=Partial withdrawals are available from the surrender value after the first policy anniversary.
+The minimum withdrawal is $100. Withdrawals may not exceed 90% of the surrender value
+during the first 14 years and 100% of the surrender value thereafter; minus the sum of the
+next three monthly deductions.
+No index credit will be given if funds are withdrawn from a segment before the segment
+maturity date.
+Surrender Value: The amount the policyowner will receive if they surrender their policy
+before the policy maturity date. The surrender value equals the accumulation value,
+minus any surrender charges and loans;
+Death Benefit Options =Two options are available to the policyowner:
+Option 1: (Level) The specified amount of insurance in effect on the insured?s date of death
+Option 2: (Increasing) The specified amount of insurance in effect on the insured?s date of
+death plus the accumulation value on that date
+The death benefit may be increased with either Option 1 or Option 2 in order to qualify as
+life insurance under the Internal Revenue Code of 1986, as amended.;","The policy automatically includes the Accelerated Death Benefit for Terminal and Chronic Illness Riders (ICC13L098R and ICC13L099R or state equivalent). These riders are available at issue on all policies, providing an accelerated death benefit in cases of terminal or chronic illness. If the client applies for the Long-Term Care Rider and is approved, the Chronic Illness Rider will not be issued. The Terminal Illness Rider offers benefits if the insured's life expectancy is 12 months or less, with a maximum requested benefit of $1,000,000 or 80% of the specified amount. The Chronic Illness Rider provides benefits if the insured cannot perform 2 of 6 Activities of Daily Living (ADLs) for 90 consecutive days or needs substantial supervision due to severe cognitive impairment, with a similar benefit limit. State-specific variations apply, such as in California, where the maximum benefit is $500,000 or 80% of the specified amount.
+
+Additionally, the Guaranteed Refund Option Rider (Enhanced Surrender Value Rider ? ICC14L125R, or state equivalent) is included for qualifying policies, except for substandard or tobacco cases under age 50, or substandard tables 5-16 at ages 50 and above. This rider refunds some or all premiums paid upon full surrender of the policy during a 60-day period following the 15th and 20th through 25th policy anniversaries. The refund is 50% of the accumulated premium at year 15 and 100% for years 20-25, not exceeding 80% of the specified amount, and requires policy surrender. Minimum premium requirements must be met to keep the rider in force, and it terminates if not exercised by the end of the 60-day period following the 25th anniversary.
+
+The Lapse Guard? Rider (C507LNA08R or state equivalent) is automatically attached to all policies with issue ages 0-75. It is designed to prevent lapses in policies that have been over-funded with level disbursements taken during retirement. This rider ensures that no policy loans become taxable as income and reduces the accumulation value by 3% upon exercise.
+
+For optional riders available for purchase, the Long-Term Care (LTC) Rider (ICC17L166R or state equivalent) is available for issue ages 30-79. To qualify, the insured must be a Table 4 or better with no flat extra ratings on their base life insurance policy. This rider allows the policyowner to access part or all of the death benefit early for covered long-term care services. Clients choose an LTC rider benefit limit and a monthly acceleration percentage (1%, 2%, or 4%). The benefit limits range from $150,000 to $2 million depending on the percentage selected and state regulations. The LTC Rider is underwritten separately, with charges based on various factors and guaranteed not to increase. Benefits are provided if the insured cannot perform 2 of 6 ADLs for 90 days or requires substantial supervision due to cognitive impairment. The rider reimburses for expenses like nursing home, assisted living, home health care, adult day care, bed reservation, and certain stay-at-home benefits. Designed to be tax-qualified under Section 7702B(b) of the Internal Revenue Code, this status is intended but not guaranteed.","No-lapse protection=Long-Term: By paying the long-term no-lapse protection premium, the death benefit will be
+guaranteed until the insured?s age 90. The long-term no-lapse protection premium level is
+only available for insureds up to issue age 79.
+Short-Term: This is the minimum initial premium. By paying the short-term no-lapse
+protection premium, the death benefit will be guaranteed as follows (based on the client?s
+issue age):
+0-79: 10 years
+80-85: To age 90
+After the no-lapse protection period, the policy can continue on a non-guaranteed basis
+for the client?s lifetime. How long the death benefit protection lasts beyond the no-lapse
+protection period is based on the amount and timing of the premium payments, the
+amount of interest credited to the policy, and the policy charges.;","$100,000 and up
+(First Year Premium over $10,000,000 requires home office
+approval.)","Policy Form Number= ICC17L152P (or state equivalent); Unisex: ICC17L153P (or state equivalent);
+Life Insurance Qualification Test= Cash Value Accumulation Test (CVAT);","Underwriting Class=Preferred Plus NT, Preferred NT, Standard Plus NT,
+Standard NT, Preferred T, Standard T;
+Table Rates= Tables 1 (A) to 16 (P);","Accumulation Value= This policy may build an accumulation value that earns interest based on the performance
+of crediting strategies that are linked to the chosen index and a fixed account.;
+Index Interest=
+Crediting Strategies
+Four index interest crediting strategies are available. All strategies use the annual pointto-point crediting method and all are based on the performance of the chosen index. The
+participation rates and caps are declared monthly and can be found on the Life product
+page on our Sales Professional Access website. The minimum index interest crediting rate
+(the floor) for all four strategies is 0%.
+* S&P 500? One-Year 100% Participation
+* S&P 500? One-Year High Participation
+* S&P 500? One-Year Uncapped
+* BofA U.S. Agility Index: One-Year Uncapped
+Index segments are created on the 10th of a policy month and mature after one year.;
+Policy Exclusions and
+Limitations=
+The death benefit will not be paid if the insured?s death results from suicide, while sane
+or insane, within two years from the date of issue. Instead, we will pay the sum of the
+premiums paid since issue, less any loan and loan interest due and any withdrawals.
+Exclusions and limitations may vary by state.;
+Policy Maturity Age= The policy will mature at age 120. Upon maturity, if the insured is still living, the surrender
+value will be paid;"
+Mutual of Omaha,AccumUL,"Age Last Birthday
+0-17 Standard NT risk only
+18-80 (all risks)
+81-85 Standard NT and Standard T risks only",N/A,"Surrender Charges= First 9 policy years;
+Expense Loads= Monthly Deductions:
+Monthly expense charge: Current: $5, plus a monthly charge
+per $1,000 of Specified Amount; Guaranteed: $10, plus a
+monthly charge per $1,000 of Specified Amount
+Cost of insurance for the current month
+Cost of riders for the current month
+Premium Charge
+Current : 5% of premium up to the Target Premium
+7.5% of premium in excess of the Target Premium
+Guaranteed : 10% of each premium payment;", Low Cost Loans=Years 1-9: Charge 4% in arrears; Credit 2%. Years 10+; Charge 2% in arrears; Credit 2%.,"Partial Withdrawal=Allowed after first policy year,
+$100 minimum withdrawal amount.;
+Guaranteed interest rate= 2%;","Riders (Some restrictions may apply)= Accel. Death Benefit for Terminal and Chronic Illness Riders*
+Lapse GuardSM Rider*
+Guaranteed Insurability Rider
+Accidental Death Benefit Rider
+Disability Continuation of Planned Premium Rider
+Disability Waiver of Policy Charges Rider
+Dependent Children?s Rider
+Add?l. Insured Term Rider (Self & Other Insured)
+*Included in the policy;","The policy automatically includes the Accelerated Death Benefit for Terminal and Chronic Illness Riders (ICC13L098R and ICC13L099R or state equivalent). These riders are available at issue on all policies, providing an accelerated death benefit in cases of terminal or chronic illness. If the client applies for the Long-Term Care Rider and is approved, the Chronic Illness Rider will not be issued. The Terminal Illness Rider offers benefits if the insured's life expectancy is 12 months or less, with a maximum requested benefit of $1,000,000 or 80% of the specified amount. The Chronic Illness Rider provides benefits if the insured cannot perform 2 of 6 Activities of Daily Living (ADLs) for 90 consecutive days or needs substantial supervision due to severe cognitive impairment, with a similar benefit limit. State-specific variations apply, such as in California, where the maximum benefit is $500,000 or 80% of the specified amount.
+
+Additionally, the Guaranteed Refund Option Rider (Enhanced Surrender Value Rider ? ICC14L125R, or state equivalent) is included for qualifying policies, except for substandard or tobacco cases under age 50, or substandard tables 5-16 at ages 50 and above. This rider refunds some or all premiums paid upon full surrender of the policy during a 60-day period following the 15th and 20th through 25th policy anniversaries. The refund is 50% of the accumulated premium at year 15 and 100% for years 20-25, not exceeding 80% of the specified amount, and requires policy surrender. Minimum premium requirements must be met to keep the rider in force, and it terminates if not exercised by the end of the 60-day period following the 25th anniversary.
+
+The Lapse Guard? Rider (C507LNA08R or state equivalent) is automatically attached to all policies with issue ages 0-75. It is designed to prevent lapses in policies that have been over-funded with level disbursements taken during retirement. This rider ensures that no policy loans become taxable as income and reduces the accumulation value by 3% upon exercise.
+
+For optional riders available for purchase, the Long-Term Care (LTC) Rider (ICC17L166R or state equivalent) is available for issue ages 30-79. To qualify, the insured must be a Table 4 or better with no flat extra ratings on their base life insurance policy. This rider allows the policyowner to access part or all of the death benefit early for covered long-term care services. Clients choose an LTC rider benefit limit and a monthly acceleration percentage (1%, 2%, or 4%). The benefit limits range from $150,000 to $2 million depending on the percentage selected and state regulations. The LTC Rider is underwritten separately, with charges based on various factors and guaranteed not to increase. Benefits are provided if the insured cannot perform 2 of 6 ADLs for 90 days or requires substantial supervision due to cognitive impairment. The rider reimburses for expenses like nursing home, assisted living, home health care, adult day care, bed reservation, and certain stay-at-home benefits. Designed to be tax-qualified under Section 7702B(b) of the Internal Revenue Code, this status is intended but not guaranteed.","$25,000 - $99,999*, $250,000 - $499,999,
+$100,000 - $249,999,     $500,000 - $999,999 ,     $1,000,000 plus 
+*Below $100,000, only Standard NT and Standard T risks are available
+Face amounts under $100k, Table 4 is the only substandard option
+available
+(First Year Premium over $2,000,000 requires home office approval.)","No-Lapse Protection=Short-Term No-Lapse Protection
+Based on payment of Minimum Premiums 5 Years
+Long-Term No-Lapse Protection
+Based on payment of Target Premiums
+Ages 0-55: 30 Years Ages 56-79: To age 85 Ages 80+: None;","Underwriting Class=Preferred Plus NT, Preferred NT, Preferred T,
+Standard Plus NT, Substandard NT, Standard NT, Substandard T, Standard T,
+25% per table; table-rated cases increase the fully commissionable premium;
+Table Rates= Tables 1 (A) to 16 (P);","Other Product Features=1. Lapse Guard Protection
+2. Wash Loan Feature in years 10+
+3. Policy maturity age is 120;"
+Mutual of Omaha,Term Life 10,"Nontobacco:18-80
+Tobacco:18-75","premium modes = 
+Annual (1.00), Quarterly (.265),
+Semiannual (.52), Monthly BSP (.086)","Policy fee = $62.50 per year
+(Commissionable for face amounts under $250,000);
+Renewal of Premiums=The policy automatically renews annually in year 11 and thereafter to age 95, without evidence of insurability;","conversion period = For issue ages 18-72: The 
+earlier of 10 years or age 75,
+ For issue ages 73+: During 
+the first 2 policy�years�only;",,"Riders
+(Some restrictions
+may apply)=
+Accelerated Death Benefit for Terminal Illness Rider*
+Accidental Death Benefit Rider
+Waiver of Premium for Unemployment Rider*
+Dependent Children?s Rider
+Other Insured Rider
+Disability Waiver of Premium Rider
+*Included in the policy ","The policy automatically includes the Accelerated Death Benefit for Terminal and Chronic Illness Riders (ICC13L098R and ICC13L099R or state equivalent). These riders are available at issue on all policies, providing an accelerated death benefit in cases of terminal or chronic illness. If the client applies for the Long-Term Care Rider and is approved, the Chronic Illness Rider will not be issued. The Terminal Illness Rider offers benefits if the insured's life expectancy is 12 months or less, with a maximum requested benefit of $1,000,000 or 80% of the specified amount. The Chronic Illness Rider provides benefits if the insured cannot perform 2 of 6 Activities of Daily Living (ADLs) for 90 consecutive days or needs substantial supervision due to severe cognitive impairment, with a similar benefit limit. State-specific variations apply, such as in California, where the maximum benefit is $500,000 or 80% of the specified amount.
+
+Additionally, the Guaranteed Refund Option Rider (Enhanced Surrender Value Rider ? ICC14L125R, or state equivalent) is included for qualifying policies, except for substandard or tobacco cases under age 50, or substandard tables 5-16 at ages 50 and above. This rider refunds some or all premiums paid upon full surrender of the policy during a 60-day period following the 15th and 20th through 25th policy anniversaries. The refund is 50% of the accumulated premium at year 15 and 100% for years 20-25, not exceeding 80% of the specified amount, and requires policy surrender. Minimum premium requirements must be met to keep the rider in force, and it terminates if not exercised by the end of the 60-day period following the 25th anniversary.
+
+The Lapse Guard? Rider (C507LNA08R or state equivalent) is automatically attached to all policies with issue ages 0-75. It is designed to prevent lapses in policies that have been over-funded with level disbursements taken during retirement. This rider ensures that no policy loans become taxable as income and reduces the accumulation value by 3% upon exercise.
+
+For optional riders available for purchase, the Long-Term Care (LTC) Rider (ICC17L166R or state equivalent) is available for issue ages 30-79. To qualify, the insured must be a Table 4 or better with no flat extra ratings on their base life insurance policy. This rider allows the policyowner to access part or all of the death benefit early for covered long-term care services. Clients choose an LTC rider benefit limit and a monthly acceleration percentage (1%, 2%, or 4%). The benefit limits range from $150,000 to $2 million depending on the percentage selected and state regulations. The LTC Rider is underwritten separately, with charges based on various factors and guaranteed not to increase. Benefits are provided if the insured cannot perform 2 of 6 ADLs for 90 days or requires substantial supervision due to cognitive impairment. The rider reimburses for expenses like nursing home, assisted living, home health care, adult day care, bed reservation, and certain stay-at-home benefits. Designed to be tax-qualified under Section 7702B(b) of the Internal Revenue Code, this status is intended but not guaranteed.","$100,000 - $249,999 ,     $500,000 - $999,999,
+$250,000 - $499,999 ,      $1,000,000 and above",,"Underwriting Class=Preferred Plus NT, Preferred NT, Preferred T,
+Standard Plus NT, Substandard NT, Standard NT, Substandard T, Standard T;
+Table Rates= Tables 1 (A) to 16 (P);",
+Mutual of Omaha,Term Life 15,"Nontobacco:18-74
+Tobacco:18-70","premium modes = 
+Annual (1.00), Quarterly (.265),
+Semiannual (.52), Monthly BSP (.086)","Policy fee = $62.50 per year
+(Commissionable for face amounts under $250,000);
+Renewal of Premiums=The policy automatically renews annually in policy year 16 and thereafter to age 95, without evidence of insurability;","Conversion Period=The earlier of 15
+ years or age 75;",,"Riders
+(Some restrictions
+may apply)=
+Accelerated Death Benefit for Terminal Illness Rider*
+Accidental Death Benefit Rider
+Waiver of Premium for Unemployment Rider*
+Dependent Children?s Rider
+Other Insured Rider
+Disability Waiver of Premium Rider
+*Included in the policy ","The policy automatically includes the Accelerated Death Benefit for Terminal and Chronic Illness Riders (ICC13L098R and ICC13L099R or state equivalent). These riders are available at issue on all policies, providing an accelerated death benefit in cases of terminal or chronic illness. If the client applies for the Long-Term Care Rider and is approved, the Chronic Illness Rider will not be issued. The Terminal Illness Rider offers benefits if the insured's life expectancy is 12 months or less, with a maximum requested benefit of $1,000,000 or 80% of the specified amount. The Chronic Illness Rider provides benefits if the insured cannot perform 2 of 6 Activities of Daily Living (ADLs) for 90 consecutive days or needs substantial supervision due to severe cognitive impairment, with a similar benefit limit. State-specific variations apply, such as in California, where the maximum benefit is $500,000 or 80% of the specified amount.
+
+Additionally, the Guaranteed Refund Option Rider (Enhanced Surrender Value Rider ? ICC14L125R, or state equivalent) is included for qualifying policies, except for substandard or tobacco cases under age 50, or substandard tables 5-16 at ages 50 and above. This rider refunds some or all premiums paid upon full surrender of the policy during a 60-day period following the 15th and 20th through 25th policy anniversaries. The refund is 50% of the accumulated premium at year 15 and 100% for years 20-25, not exceeding 80% of the specified amount, and requires policy surrender. Minimum premium requirements must be met to keep the rider in force, and it terminates if not exercised by the end of the 60-day period following the 25th anniversary.
+
+The Lapse Guard? Rider (C507LNA08R or state equivalent) is automatically attached to all policies with issue ages 0-75. It is designed to prevent lapses in policies that have been over-funded with level disbursements taken during retirement. This rider ensures that no policy loans become taxable as income and reduces the accumulation value by 3% upon exercise.
+
+For optional riders available for purchase, the Long-Term Care (LTC) Rider (ICC17L166R or state equivalent) is available for issue ages 30-79. To qualify, the insured must be a Table 4 or better with no flat extra ratings on their base life insurance policy. This rider allows the policyowner to access part or all of the death benefit early for covered long-term care services. Clients choose an LTC rider benefit limit and a monthly acceleration percentage (1%, 2%, or 4%). The benefit limits range from $150,000 to $2 million depending on the percentage selected and state regulations. The LTC Rider is underwritten separately, with charges based on various factors and guaranteed not to increase. Benefits are provided if the insured cannot perform 2 of 6 ADLs for 90 days or requires substantial supervision due to cognitive impairment. The rider reimburses for expenses like nursing home, assisted living, home health care, adult day care, bed reservation, and certain stay-at-home benefits. Designed to be tax-qualified under Section 7702B(b) of the Internal Revenue Code, this status is intended but not guaranteed.","$100,000 - $249,999 ,     $500,000 - $999,999,
+$250,000 - $499,999 ,      $1,000,000 and above",,"Underwriting Class=Preferred Plus NT, Preferred NT, Preferred T,
+Standard Plus NT, Substandard NT, Standard NT, Substandard T, Standard T;
+Table Rates= Tables 1 (A) to 16 (P);",
+Mutual of Omaha,Term Life 20,"Nontobacco:18-68
+Tobacco:18-65","premium modes = 
+Annual (1.00), Quarterly (.265),
+Semiannual (.52), Monthly BSP (.086)","Policy fee = $62.50 per year
+(Commissionable for face amounts under $250,000);
+Renewal of Premiums=The policy automatically renews annually in policy year 21 and thereafter to age 95, without evidence of insurability;","
+Conversion Period=The earlier of 20
+ years or age 75",,"Riders
+(Some restrictions
+may apply)=
+Accelerated Death Benefit for Terminal Illness Rider*
+Accidental Death Benefit Rider
+Waiver of Premium for Unemployment Rider*
+Dependent Children?s Rider
+Other Insured Rider
+Disability Waiver of Premium Rider
+*Included in the policy ","The policy automatically includes the Accelerated Death Benefit for Terminal and Chronic Illness Riders (ICC13L098R and ICC13L099R or state equivalent). These riders are available at issue on all policies, providing an accelerated death benefit in cases of terminal or chronic illness. If the client applies for the Long-Term Care Rider and is approved, the Chronic Illness Rider will not be issued. The Terminal Illness Rider offers benefits if the insured's life expectancy is 12 months or less, with a maximum requested benefit of $1,000,000 or 80% of the specified amount. The Chronic Illness Rider provides benefits if the insured cannot perform 2 of 6 Activities of Daily Living (ADLs) for 90 consecutive days or needs substantial supervision due to severe cognitive impairment, with a similar benefit limit. State-specific variations apply, such as in California, where the maximum benefit is $500,000 or 80% of the specified amount.
+
+Additionally, the Guaranteed Refund Option Rider (Enhanced Surrender Value Rider ? ICC14L125R, or state equivalent) is included for qualifying policies, except for substandard or tobacco cases under age 50, or substandard tables 5-16 at ages 50 and above. This rider refunds some or all premiums paid upon full surrender of the policy during a 60-day period following the 15th and 20th through 25th policy anniversaries. The refund is 50% of the accumulated premium at year 15 and 100% for years 20-25, not exceeding 80% of the specified amount, and requires policy surrender. Minimum premium requirements must be met to keep the rider in force, and it terminates if not exercised by the end of the 60-day period following the 25th anniversary.
+
+The Lapse Guard? Rider (C507LNA08R or state equivalent) is automatically attached to all policies with issue ages 0-75. It is designed to prevent lapses in policies that have been over-funded with level disbursements taken during retirement. This rider ensures that no policy loans become taxable as income and reduces the accumulation value by 3% upon exercise.
+
+For optional riders available for purchase, the Long-Term Care (LTC) Rider (ICC17L166R or state equivalent) is available for issue ages 30-79. To qualify, the insured must be a Table 4 or better with no flat extra ratings on their base life insurance policy. This rider allows the policyowner to access part or all of the death benefit early for covered long-term care services. Clients choose an LTC rider benefit limit and a monthly acceleration percentage (1%, 2%, or 4%). The benefit limits range from $150,000 to $2 million depending on the percentage selected and state regulations. The LTC Rider is underwritten separately, with charges based on various factors and guaranteed not to increase. Benefits are provided if the insured cannot perform 2 of 6 ADLs for 90 days or requires substantial supervision due to cognitive impairment. The rider reimburses for expenses like nursing home, assisted living, home health care, adult day care, bed reservation, and certain stay-at-home benefits. Designed to be tax-qualified under Section 7702B(b) of the Internal Revenue Code, this status is intended but not guaranteed.","$100,000 - $249,999 ,     $500,000 - $999,999,
+$250,000 - $499,999 ,      $1,000,000 and above",,"Underwriting Class=Preferred Plus NT, Preferred NT, Preferred T,
+Standard Plus NT, Substandard NT, Standard NT, Substandard T, Standard T;
+Table Rates= Tables 1 (A) to 16 (P);",
+Mutual of Omaha,Term Life 30,"Nontobacco:18-55
+Tobacco:18-50","premium modes = 
+Annual (1.00), Quarterly (.265),
+Semiannual (.52), Monthly BSP (.086)","Policy fee = $62.50 per year
+(Commissionable for face amounts under $250,000);
+Renewal of Premiums=The policy automatically renews annually in policy year 31 and thereafter to age 95, without evidence of insurability;",Conversion Period=During the first 20 policy years�only;,,"Riders
+(Some restrictions
+may apply)=
+Accelerated Death Benefit for Terminal Illness Rider*
+Accidental Death Benefit Rider
+Waiver of Premium for Unemployment Rider*
+Dependent Children?s Rider
+Other Insured Rider
+Disability Waiver of Premium Rider
+*Included in the policy ","The policy automatically includes the Accelerated Death Benefit for Terminal and Chronic Illness Riders (ICC13L098R and ICC13L099R or state equivalent). These riders are available at issue on all policies, providing an accelerated death benefit in cases of terminal or chronic illness. If the client applies for the Long-Term Care Rider and is approved, the Chronic Illness Rider will not be issued. The Terminal Illness Rider offers benefits if the insured's life expectancy is 12 months or less, with a maximum requested benefit of $1,000,000 or 80% of the specified amount. The Chronic Illness Rider provides benefits if the insured cannot perform 2 of 6 Activities of Daily Living (ADLs) for 90 consecutive days or needs substantial supervision due to severe cognitive impairment, with a similar benefit limit. State-specific variations apply, such as in California, where the maximum benefit is $500,000 or 80% of the specified amount.
+
+Additionally, the Guaranteed Refund Option Rider (Enhanced Surrender Value Rider ? ICC14L125R, or state equivalent) is included for qualifying policies, except for substandard or tobacco cases under age 50, or substandard tables 5-16 at ages 50 and above. This rider refunds some or all premiums paid upon full surrender of the policy during a 60-day period following the 15th and 20th through 25th policy anniversaries. The refund is 50% of the accumulated premium at year 15 and 100% for years 20-25, not exceeding 80% of the specified amount, and requires policy surrender. Minimum premium requirements must be met to keep the rider in force, and it terminates if not exercised by the end of the 60-day period following the 25th anniversary.
+
+The Lapse Guard? Rider (C507LNA08R or state equivalent) is automatically attached to all policies with issue ages 0-75. It is designed to prevent lapses in policies that have been over-funded with level disbursements taken during retirement. This rider ensures that no policy loans become taxable as income and reduces the accumulation value by 3% upon exercise.
+
+For optional riders available for purchase, the Long-Term Care (LTC) Rider (ICC17L166R or state equivalent) is available for issue ages 30-79. To qualify, the insured must be a Table 4 or better with no flat extra ratings on their base life insurance policy. This rider allows the policyowner to access part or all of the death benefit early for covered long-term care services. Clients choose an LTC rider benefit limit and a monthly acceleration percentage (1%, 2%, or 4%). The benefit limits range from $150,000 to $2 million depending on the percentage selected and state regulations. The LTC Rider is underwritten separately, with charges based on various factors and guaranteed not to increase. Benefits are provided if the insured cannot perform 2 of 6 ADLs for 90 days or requires substantial supervision due to cognitive impairment. The rider reimburses for expenses like nursing home, assisted living, home health care, adult day care, bed reservation, and certain stay-at-home benefits. Designed to be tax-qualified under Section 7702B(b) of the Internal Revenue Code, this status is intended but not guaranteed.","$100,000 - $249,999 ,     $500,000 - $999,999,
+$250,000 - $499,999 ,      $1,000,000 and above",,"Underwriting Class=Preferred Plus NT, Preferred NT, Preferred T,
+Standard Plus NT, Substandard NT, Standard NT, Substandard T, Standard T;
+Table Rates= Tables 1 (A) to 16 (P);",
+Mutual of Omaha,"Term Life Express 10, 15, 20, 30","Non-ROP: 
+18-75 = 10/10
+18-70 = 15/15 
+18-60 = 20/20 
+18-50 = 30/30
+
+ROP:  18-50 = 30/30
+
+Maximum issue ages may vary by state and tobacco usage.","Premium Modes=Annual (1.00), Semiannual (.52),
+Quarterly (.275), Monthly BSP (.089);","Policy fee = $60 per year (Commissionable)
+Renewal of Premiums=Policies may be renewed annually to age 100, without
+ evidence of insurability.","
+Conversion Period=Convertible after policy year two through the lessor of: 
+(a) the end of the level term period or (b) the policy anniversary 
+following the insured?s 70th birthday. 
+Cannot be converted to a fully underwritten�product.",,"Riders (Some restrictions may apply)=Living Benefit Riders (Terminal, Chronic and Critical Illness)*, 
+Residential Damage Waiver of Premium Rider*
+Waiver of Premium for Unemployment Rider*
+Common Carrier Death Benefit Provision*
+Accidental Death Benefit Rider
+Dependent Children?s Rider
+Disability Income Rider**
+Disability Waiver of Premium Rider
+*Included in the policy
+**Non-ROP policy only ***ROP policy only","The policy automatically includes the Accelerated Death Benefit for Terminal and Chronic Illness Riders (ICC13L098R and ICC13L099R or state equivalent). These riders are available at issue on all policies, providing an accelerated death benefit in cases of terminal or chronic illness. If the client applies for the Long-Term Care Rider and is approved, the Chronic Illness Rider will not be issued. The Terminal Illness Rider offers benefits if the insured's life expectancy is 12 months or less, with a maximum requested benefit of $1,000,000 or 80% of the specified amount. The Chronic Illness Rider provides benefits if the insured cannot perform 2 of 6 Activities of Daily Living (ADLs) for 90 consecutive days or needs substantial supervision due to severe cognitive impairment, with a similar benefit limit. State-specific variations apply, such as in California, where the maximum benefit is $500,000 or 80% of the specified amount.
+
+Additionally, the Guaranteed Refund Option Rider (Enhanced Surrender Value Rider ? ICC14L125R, or state equivalent) is included for qualifying policies, except for substandard or tobacco cases under age 50, or substandard tables 5-16 at ages 50 and above. This rider refunds some or all premiums paid upon full surrender of the policy during a 60-day period following the 15th and 20th through 25th policy anniversaries. The refund is 50% of the accumulated premium at year 15 and 100% for years 20-25, not exceeding 80% of the specified amount, and requires policy surrender. Minimum premium requirements must be met to keep the rider in force, and it terminates if not exercised by the end of the 60-day period following the 25th anniversary.
+
+The Lapse Guard? Rider (C507LNA08R or state equivalent) is automatically attached to all policies with issue ages 0-75. It is designed to prevent lapses in policies that have been over-funded with level disbursements taken during retirement. This rider ensures that no policy loans become taxable as income and reduces the accumulation value by 3% upon exercise.
+
+For optional riders available for purchase, the Long-Term Care (LTC) Rider (ICC17L166R or state equivalent) is available for issue ages 30-79. To qualify, the insured must be a Table 4 or better with no flat extra ratings on their base life insurance policy. This rider allows the policyowner to access part or all of the death benefit early for covered long-term care services. Clients choose an LTC rider benefit limit and a monthly acceleration percentage (1%, 2%, or 4%). The benefit limits range from $150,000 to $2 million depending on the percentage selected and state regulations. The LTC Rider is underwritten separately, with charges based on various factors and guaranteed not to increase. Benefits are provided if the insured cannot perform 2 of 6 ADLs for 90 days or requires substantial supervision due to cognitive impairment. The rider reimburses for expenses like nursing home, assisted living, home health care, adult day care, bed reservation, and certain stay-at-home benefits. Designed to be tax-qualified under Section 7702B(b) of the Internal Revenue Code, this status is intended but not guaranteed.","$25,000 - $300,000 Ages 18-50, $25,000 - $250,000 Ages 51-60,
+$25,000 - $150,000 Ages 61-70",,"Underwriting Class=Standard NT, Standard T;
+Table rate= N/A;","Other Product Features=1. Lapse Guard Protection
+2. Wash Loan Feature in years 10+
+3. Policy maturity age is 120"
+Mutual of Omaha,Indexed Universal Life Express,18-75,,"Surrender Charges= First 14 policy years.;
+Expense Loads= Monthly Deductions:
+Monthly expense charge: $5, plus a monthly charge per $1,000 of Specified Amount
+Cost of insurance for the current month
+Cost of riders for the current month
+Premium Charge
+4.5% premium charge for all years on each premium payment;
+Policy Loan=Standard Loan: Years 1-9: Charge 4% (in arrears), Credit 2% Years 10+: Charge 2% (in arrears), Credit 2% Index Loan: Charge: Currently declared and not to exceed 6%
+Credit: Based on Index Crediting Strategy Performance",,"Guaranteed Interest rate= 2% on fixed account;
+Partial Withdrawals= Allowed after first policy year, $100 minimum;","Riders (Some restrictions may apply)=Living Benefit Riders (Terminal, Chronic and Critical Illness)*
+Waiver of Surrender Charges for Partial Withdrawals Rider*
+Guaranteed Insurability Rider*
+Lapse Guard Rider*
+Accidental Death Benefit Rider
+Disability Continuation of Planned Premium Rider
+Disability Waiver of Policy Charges Rider
+Dependent Children?s Rider
+*Included in the policy","The policy automatically includes the Accelerated Death Benefit for Terminal and Chronic Illness Riders (ICC13L098R and ICC13L099R or state equivalent). These riders are available at issue on all policies, providing an accelerated death benefit in cases of terminal or chronic illness. If the client applies for the Long-Term Care Rider and is approved, the Chronic Illness Rider will not be issued. The Terminal Illness Rider offers benefits if the insured's life expectancy is 12 months or less, with a maximum requested benefit of $1,000,000 or 80% of the specified amount. The Chronic Illness Rider provides benefits if the insured cannot perform 2 of 6 Activities of Daily Living (ADLs) for 90 consecutive days or needs substantial supervision due to severe cognitive impairment, with a similar benefit limit. State-specific variations apply, such as in California, where the maximum benefit is $500,000 or 80% of the specified amount.
+
+Additionally, the Guaranteed Refund Option Rider (Enhanced Surrender Value Rider ? ICC14L125R, or state equivalent) is included for qualifying policies, except for substandard or tobacco cases under age 50, or substandard tables 5-16 at ages 50 and above. This rider refunds some or all premiums paid upon full surrender of the policy during a 60-day period following the 15th and 20th through 25th policy anniversaries. The refund is 50% of the accumulated premium at year 15 and 100% for years 20-25, not exceeding 80% of the specified amount, and requires policy surrender. Minimum premium requirements must be met to keep the rider in force, and it terminates if not exercised by the end of the 60-day period following the 25th anniversary.
+
+The Lapse Guard? Rider (C507LNA08R or state equivalent) is automatically attached to all policies with issue ages 0-75. It is designed to prevent lapses in policies that have been over-funded with level disbursements taken during retirement. This rider ensures that no policy loans become taxable as income and reduces the accumulation value by 3% upon exercise.
+
+For optional riders available for purchase, the Long-Term Care (LTC) Rider (ICC17L166R or state equivalent) is available for issue ages 30-79. To qualify, the insured must be a Table 4 or better with no flat extra ratings on their base life insurance policy. This rider allows the policyowner to access part or all of the death benefit early for covered long-term care services. Clients choose an LTC rider benefit limit and a monthly acceleration percentage (1%, 2%, or 4%). The benefit limits range from $150,000 to $2 million depending on the percentage selected and state regulations. The LTC Rider is underwritten separately, with charges based on various factors and guaranteed not to increase. Benefits are provided if the insured cannot perform 2 of 6 ADLs for 90 days or requires substantial supervision due to cognitive impairment. The rider reimburses for expenses like nursing home, assisted living, home health care, adult day care, bed reservation, and certain stay-at-home benefits. Designed to be tax-qualified under Section 7702B(b) of the Internal Revenue Code, this status is intended but not guaranteed.","$25,000-$300,000 Ages 18-50,
+$25,000-$250,000 Ages 51-60,
+$25,000-$150,000 Ages 61-75","No-Lapse Protection=By paying the no-lapse protection premium, the death benefit
+will be guaranteed as follows:
+* Ages 18-60: 20 years ? Ages 61+: To age 80;","Underwriting Class=Standard NT, Standard T;
+Table rate= N/A;","Other Product Features=1. Simplified underwriting
+2. Quick issue process
+3. Four index crediting strategies:
+* S&P 500? One-Year 100% Participation
+* S&P 500? One-Year High Participation
+* S&P 500? One-Year Uncapped
+* BofA U.S. Agility Index: One-Year Uncapped;"
+Mutual of Omaha,Living Promise Whole Life Level Benefit Plan,45-85,"premium modes = Annual (1.00), Quarterly (.275), 
+Semiannual (.52), Monthly BSP (.089);",Policy fee = $36 Annual Policy Fee (Commissionable), Low Cost Loans= Charge 7.4% in advance,Death Benefit Guarantees= Policy is guaranteed to age 100 as long as premium is paid;,"Riders (Some restrictions may apply)=Accelerated Death Benefit for Terminal Illness
+or Nursing Home Confinement Rider*
+Optional: Accidental Death Benefit Rider
+*Included in the policy","The policy automatically includes the Accelerated Death Benefit for Terminal and Chronic Illness Riders (ICC13L098R and ICC13L099R or state equivalent). These riders are available at issue on all policies, providing an accelerated death benefit in cases of terminal or chronic illness. If the client applies for the Long-Term Care Rider and is approved, the Chronic Illness Rider will not be issued. The Terminal Illness Rider offers benefits if the insured's life expectancy is 12 months or less, with a maximum requested benefit of $1,000,000 or 80% of the specified amount. The Chronic Illness Rider provides benefits if the insured cannot perform 2 of 6 Activities of Daily Living (ADLs) for 90 consecutive days or needs substantial supervision due to severe cognitive impairment, with a similar benefit limit. State-specific variations apply, such as in California, where the maximum benefit is $500,000 or 80% of the specified amount.
+
+Additionally, the Guaranteed Refund Option Rider (Enhanced Surrender Value Rider ? ICC14L125R, or state equivalent) is included for qualifying policies, except for substandard or tobacco cases under age 50, or substandard tables 5-16 at ages 50 and above. This rider refunds some or all premiums paid upon full surrender of the policy during a 60-day period following the 15th and 20th through 25th policy anniversaries. The refund is 50% of the accumulated premium at year 15 and 100% for years 20-25, not exceeding 80% of the specified amount, and requires policy surrender. Minimum premium requirements must be met to keep the rider in force, and it terminates if not exercised by the end of the 60-day period following the 25th anniversary.
+
+The Lapse Guard? Rider (C507LNA08R or state equivalent) is automatically attached to all policies with issue ages 0-75. It is designed to prevent lapses in policies that have been over-funded with level disbursements taken during retirement. This rider ensures that no policy loans become taxable as income and reduces the accumulation value by 3% upon exercise.
+
+For optional riders available for purchase, the Long-Term Care (LTC) Rider (ICC17L166R or state equivalent) is available for issue ages 30-79. To qualify, the insured must be a Table 4 or better with no flat extra ratings on their base life insurance policy. This rider allows the policyowner to access part or all of the death benefit early for covered long-term care services. Clients choose an LTC rider benefit limit and a monthly acceleration percentage (1%, 2%, or 4%). The benefit limits range from $150,000 to $2 million depending on the percentage selected and state regulations. The LTC Rider is underwritten separately, with charges based on various factors and guaranteed not to increase. Benefits are provided if the insured cannot perform 2 of 6 ADLs for 90 days or requires substantial supervision due to cognitive impairment. The rider reimburses for expenses like nursing home, assisted living, home health care, adult day care, bed reservation, and certain stay-at-home benefits. Designed to be tax-qualified under Section 7702B(b) of the Internal Revenue Code, this status is intended but not guaranteed.","$2,000 - $50,000",Conversion=N/A;,"Underwriting Class=Standard Tobacco/ Nontobacco;
+Table rate= N/A;","Other Product Features=
+1. Simplified underwriting
+2. Small face amounts
+3. No death benefit reductions in early years
+(Level Benefit only)
+4. iGo e-AppTM;"
+Mutual of Omaha,Living Promise Whole Life Graded Benefit Plan,45-80,"premium modes = Annual (1.00), Quarterly (.275), 
+Semiannual (.52), Monthly BSP (.089);",Policy fee = $12 Annual Policy Fee (Commissionable), Low Cost Loans= Charge 7.4% in advance,Death Benefit Guarantees= Policy is guaranteed to age 100 as long as premium is paid;,Riders=None;,"The policy automatically includes the Accelerated Death Benefit for Terminal and Chronic Illness Riders (ICC13L098R and ICC13L099R or state equivalent). These riders are available at issue on all policies, providing an accelerated death benefit in cases of terminal or chronic illness. If the client applies for the Long-Term Care Rider and is approved, the Chronic Illness Rider will not be issued. The Terminal Illness Rider offers benefits if the insured's life expectancy is 12 months or less, with a maximum requested benefit of $1,000,000 or 80% of the specified amount. The Chronic Illness Rider provides benefits if the insured cannot perform 2 of 6 Activities of Daily Living (ADLs) for 90 consecutive days or needs substantial supervision due to severe cognitive impairment, with a similar benefit limit. State-specific variations apply, such as in California, where the maximum benefit is $500,000 or 80% of the specified amount.
+
+Additionally, the Guaranteed Refund Option Rider (Enhanced Surrender Value Rider ? ICC14L125R, or state equivalent) is included for qualifying policies, except for substandard or tobacco cases under age 50, or substandard tables 5-16 at ages 50 and above. This rider refunds some or all premiums paid upon full surrender of the policy during a 60-day period following the 15th and 20th through 25th policy anniversaries. The refund is 50% of the accumulated premium at year 15 and 100% for years 20-25, not exceeding 80% of the specified amount, and requires policy surrender. Minimum premium requirements must be met to keep the rider in force, and it terminates if not exercised by the end of the 60-day period following the 25th anniversary.
+
+The Lapse Guard? Rider (C507LNA08R or state equivalent) is automatically attached to all policies with issue ages 0-75. It is designed to prevent lapses in policies that have been over-funded with level disbursements taken during retirement. This rider ensures that no policy loans become taxable as income and reduces the accumulation value by 3% upon exercise.
+
+For optional riders available for purchase, the Long-Term Care (LTC) Rider (ICC17L166R or state equivalent) is available for issue ages 30-79. To qualify, the insured must be a Table 4 or better with no flat extra ratings on their base life insurance policy. This rider allows the policyowner to access part or all of the death benefit early for covered long-term care services. Clients choose an LTC rider benefit limit and a monthly acceleration percentage (1%, 2%, or 4%). The benefit limits range from $150,000 to $2 million depending on the percentage selected and state regulations. The LTC Rider is underwritten separately, with charges based on various factors and guaranteed not to increase. Benefits are provided if the insured cannot perform 2 of 6 ADLs for 90 days or requires substantial supervision due to cognitive impairment. The rider reimburses for expenses like nursing home, assisted living, home health care, adult day care, bed reservation, and certain stay-at-home benefits. Designed to be tax-qualified under Section 7702B(b) of the Internal Revenue Code, this status is intended but not guaranteed.","$2,000 - $20,000",Conversion=N/A;,"Underwriting Class=Standard
+(no tobacco distinction);
+Table rate= N/A;","Other Product Features=
+1. Simplified underwriting
+2. Small face amounts
+3. No death benefit reductions in early years
+(Level Benefit only)
+4. iGo e-AppTM;"
+Mutual of Omaha,Children-s Whole Life,14 days to 17 years,"premium modes =Annual (1.00), Quarterly (.25), 
+Semiannual (.50), Monthly BSP (.08333);",Policy fee = $12 Annual Policy Fee (Commissionable), Low Cost Loans=Charge 5.66% in advance,"Guaranteed Interest rate= N/A;
+Partial Withdrawls= None;
+Death Benefit=Guarantees Policy is guaranteed to age 100 as long as premium is paid.;","Riders (Some restrictions may apply)=Guaranteed Insurability Rider
+Waiver of Premium due to Death of Owner","The policy automatically includes the Accelerated Death Benefit for Terminal and Chronic Illness Riders (ICC13L098R and ICC13L099R or state equivalent). These riders are available at issue on all policies, providing an accelerated death benefit in cases of terminal or chronic illness. If the client applies for the Long-Term Care Rider and is approved, the Chronic Illness Rider will not be issued. The Terminal Illness Rider offers benefits if the insured's life expectancy is 12 months or less, with a maximum requested benefit of $1,000,000 or 80% of the specified amount. The Chronic Illness Rider provides benefits if the insured cannot perform 2 of 6 Activities of Daily Living (ADLs) for 90 consecutive days or needs substantial supervision due to severe cognitive impairment, with a similar benefit limit. State-specific variations apply, such as in California, where the maximum benefit is $500,000 or 80% of the specified amount.
+
+Additionally, the Guaranteed Refund Option Rider (Enhanced Surrender Value Rider ? ICC14L125R, or state equivalent) is included for qualifying policies, except for substandard or tobacco cases under age 50, or substandard tables 5-16 at ages 50 and above. This rider refunds some or all premiums paid upon full surrender of the policy during a 60-day period following the 15th and 20th through 25th policy anniversaries. The refund is 50% of the accumulated premium at year 15 and 100% for years 20-25, not exceeding 80% of the specified amount, and requires policy surrender. Minimum premium requirements must be met to keep the rider in force, and it terminates if not exercised by the end of the 60-day period following the 25th anniversary.
+
+The Lapse Guard? Rider (C507LNA08R or state equivalent) is automatically attached to all policies with issue ages 0-75. It is designed to prevent lapses in policies that have been over-funded with level disbursements taken during retirement. This rider ensures that no policy loans become taxable as income and reduces the accumulation value by 3% upon exercise.
+
+For optional riders available for purchase, the Long-Term Care (LTC) Rider (ICC17L166R or state equivalent) is available for issue ages 30-79. To qualify, the insured must be a Table 4 or better with no flat extra ratings on their base life insurance policy. This rider allows the policyowner to access part or all of the death benefit early for covered long-term care services. Clients choose an LTC rider benefit limit and a monthly acceleration percentage (1%, 2%, or 4%). The benefit limits range from $150,000 to $2 million depending on the percentage selected and state regulations. The LTC Rider is underwritten separately, with charges based on various factors and guaranteed not to increase. Benefits are provided if the insured cannot perform 2 of 6 ADLs for 90 days or requires substantial supervision due to cognitive impairment. The rider reimburses for expenses like nursing home, assisted living, home health care, adult day care, bed reservation, and certain stay-at-home benefits. Designed to be tax-qualified under Section 7702B(b) of the Internal Revenue Code, this status is intended but not guaranteed.","$5,000 - $50,000",,"Underwriting Class=Standard;
+Table rate = None;","Other Product Features=1. Additional coverage may be purchased in the future without
+evidence of insurability
+2. Limited health questions and no medical exam
+3. Rates never increase and benefits never decrease
+4. iGo e-AppTM;"
+Mutual of Omaha,Guaranteed Advantage,18-70,"premium modes = Annual (1.00), Quarterly (.26), 
+Semiannual (.515), Monthly BSP (.0875)",Policy fee = $50 per year (Commissionable),"
+Conversion Period=N/A",,Riders (Some restrictions may apply)=Return of Premium Benefit Rider;,,"$50,000 - $500,000 (increments of $1,000)",Guaranteed Renewable Policy= renewable to age 80;,"Underwriting Class=Guaranteed Issue;
+Table rate = N/A;",
+ LAFAYETTE LIFE INSURANCE COMPANY,Term to 95 Life Policy (ICC19 LL-09 1901) (Continental Term),"ISSUE AGES (Age Last Birthday) =
+10 Year Term:	18 ? 75
+20 Year Term:	18 ? 65
+30 Year Term:	18 ? 50;","PREMIUMS = Payable through age 95. Term rates are guaranteed for all years. After the Initial Term, the policy may be renewed for one-year terms at rates that increase each year;",ANNUAL POLICY FEE = $50.00 per year;,,DEATH BENEFIT = Level to age 95;,"Waiver of Premium Benefit Rider (WP-TLP08)=Description:This Waiver of Premium Benefit Rider (WP-TLP08) is designed to be attached to the Continental Term to 95 Life policy (ICC19 LL-09 1901).
+CONVERSION DATE : The Conversion Date, referred to below, is the earlier of: the Initial Term Expiration Date, and the annual date next following the Insured?s 65th birthday. The Initial Term Expiration Date is shown on the Policy Schedule page.
+THE BENEFIT : Prior to Age 60 ? If the Insured becomes totally disabled while the policy is in force prior to age 60* we will waive the payment of premiums for the term policy while the Insured is totally disabled.
+If such total disability continues until the Conversion Date, we will automatically convert the term policy to a new permanent life policy. The following rules will apply to the new policy:
+The basic amount of insurance for the new permanent life policy will be the same as the Basic Amount of the term policy.
+The plan for the new policy will be a permanent life policy that we have for this purpose.
+The date of issue for the new permanent life policy will be the Conversion Date.
+A waiver of premium rider will be added to the new permanent life policy. Subject to the terms and conditions of that new waiver of premium rider, premiums will continue to be waived under the new permanent life policy provided that total disability, as defined therein, continues.
+Between Ages 60 and 65 ? If the Insured becomes totally disabled while the policy is in force between ages 60* and 65*, we will only waive premiums while the Insured is totally disabled until age 65*.
+If such total disability continues until the Conversion Date, we will automatically convert the term policy to a new permanent life policy. The above rules will also apply to the new policy, except for the last rule regarding waiver of premium, which will not apply.
+If the Conversion Date occurs before age 65*, this rider will be attached to the new permanent life policy and premiums will only be waived while the disability continues until age 65*. 
+premium rider will be added to the new policy and no premiums under that policy will be waived.
+After Age 65 ? If disability occurs after age 65*, no premium will be waived and there will not be any automatic conversion to a new permanent life policy.
+Premiums for the policy should continue to be paid until the Waiver of Premium claim for disability is approved.
+
+PREMIUM REFUND : We will refund that portion of any premium you paid provided:
+?	It applies to a period of total disability following the policy month in which the disability began; and
+?	The disability qualifies for waiver of premiums.
+
+TOTAL DISABILITY : The rider defines total disability as
+a disability which:
+?	results from bodily injury or disease;
+?	begins while the rider is in force;
+?	begins before age 65*;
+?	exists continuously for six months; and
+?	prevents the Insured from performing the substantial and material duties of the Insured?s regular occupation at the time the Insured became disabled.
+PRESUMPTIVE TOTAL DISABILITY : Even if the Insured works at his/her regular occupation, we will consider the disability total if it results in total and permanent loss of: sight of both eyes, use of both hands or both feet, use of one hand and one foot, speech, or hearing in both ears.
+
+UNDERWRITING RULES:
+ISSUE AGES (Age Last Birthday) 18 ? 55
+SPECIAL CLASS ? This rider may be issued through Table B.
+LIMITS - The Waiver of Premium Benefit will not be included in most substandard classes. The benefit may normally be included in all substandard policies requiring a permanent flat extra premium. Cases requiring Table Ratings are considered on an individual basis and may or may not include the benefit.
+Waiver of premium is not available if the death benefit of
+the term policy is in excess of $5,000,000.","OPTIONAL BENEFITS =
+Waiver of Premium Benefit Rider,
+WP-TLP08, Ages 18 - 55
+Own occupation definition is used in all years. Check the rid+I2er for additional details.
+Children?s Insurance Rider, ICC19 LLR-14 1901
+Accelerated Benefit Rider, form ABR-92. This rider is automatically added at no cost unless requested otherwise.
+Riders may be subject to underwriting availability.;
+CONVERSION =Conversion to any permanent life plan is available during the Initial Term (but not beyond age 65). Please see TERM CONVERSIONS, Page B-44 for additional information. There will be full first year commissions paid on the first year premium for the new permanent life plan minus the full first year commissions on the converted Centennial Term;
+CONVERSION CREDIT = The first premium for the new permanent plan will be reduced by a conversion credit equal in amount to the sum of the premiums paid for the base term plan in the last 12 months on the converted amount;","There are four premium bands=
+$100,000 ? $249,999
+$250,000 ? $499,999
+$500,000 ? $999,999
+$1,000,000 and Larger;
+MINIMUM FACE AMOUNT= $100,000;","Waiver of Premium Disability Benefit (WP-05)=Premiums for the policy should continue to be paid until the Waiver of Premium claim for disability is approved.JUVENILE POLICIES : The WPD benefit may be included with any juvenile policy. In the ?79 and subsequent policy series, the benefit is effective from the date of issue. Prior policies contained a benefit which was not effective until age 15 even if included at a younger issue age.LIMITS : The Waiver of Premium Disability Benefit will not be included in most substandard classes, group and certain other conversions nor in any other policy, if, in the judgment of the Company, the benefit should not be issued. The benefit may normally be included in all substandard policies requiring a permanent flat extra premium. Cases requiring Table Ratings are considered on an individual basis and may or may not include the benefit. The benefit will not be offered on Universal Life policies.Waiver of premium is not available if the death benefit of the base plan, plus any children?s insurance rider and term rider benefits is in excess of $5,000,000.
+AGE LIMITS : The benefit is issued at insurance ages 0 through 60.
+SPECIAL CLASS : WP-05 may be issued through Table B.;
+Accidental Death Benefit (ADB-05)=The Accidental Death Benefit provides for payment of an additional amount to the same persons as the death benefit of the policy, unless otherwise stated, in the event of death resulting from accidental bodily injury.
+Such death must occur while the policy and this benefit are in full force and prior to the policy anniversary immediately following the Insured?s 70th birthday. Also see the following classification of risks not assumed.
+RISKS NOT INSURED : The Accidental Death Benefit will not be payable if the death results directly or indirectly from any of the following causes:
+(1)	suicide, whether sane or insane.
+(2)	bodily or mental infirmity or disease, including any
+diagnosis or treatment thereof.
+(3)	the voluntary entry into the body of.
+(a)	any controlled substance, drug, medication or sedative unless taken as prescribed by a physician. or
+(b)	alcohol whether alone or in any combination with any drug, medication, or sedative.
+(4)	an act or incident of war, declared or undeclared.
+
+(5)	committing or attempting to commit an assault or felony, or participating in a riot. or
+
+(6)	riding in or descending from any kind of aircraft.
+(a)	as a passenger in any aircraft operated by or for the armed forces. or
+(b)	as a pilot, crew member, parachutist, or participant in training. The term ?crew member? includes anyone, including flight attendants, who performs any functions involving either the flight or the aircraft at any time aboard the aircraft.
+
+LIMITS BY AGE : This benefit will be issued at ages 0
+through 64.
+
+SPECIAL CLASS: ADB may be issued through Table C.
+
+LIMITS BY AMOUNT : Listed below are the maximum LLIC issue limits for Accidental Death Benefit that will be considered by the Company on one life. Also are listed the participation limits from all companies that include the accidental death benefit.
+LIMIT BY PLAN : The Accidental Death Benefit will be considered on all life plans except Elite Term, Elite Plus and Low Cost Term. Although the benefit may not be added to term insurance riders, it may be added to the basic policy on which the rider is attached providing the applicant is eligible for this benefit.
+
+AVIATION AND MILITARY COVERAGE : For information concerning aviation and military requirements for qualifying for the Accidental Death Benefit, refer to Aviation Risks or Military Risks on Page B-17.
+
+TERMINATION DATE : The date of termination for the Accidental Death Benefit is the annual date of the policy immediately following the Insured?s 70th birthday.
+
+ADDITION OF   ADB   TO   EXISTING   POLICIES   :
+APPLICATION FORM : Forward to the Company a completed Application for Policy Change Form 1043, part 1 and part 2, a completed Authorization to Release Information Form 1453 and the policy for traditional policies. * See page B-43. The policy is not needed for Universal Life policies. A remittance covering the cost of the addition should also be forwarded. The cost of the addition may be obtained from the Policy Change Section of the Customer Service Department.
+
+PREMIUMS : The premiums required for the benefit for standard risks are shown on the same page as the base plan. The benefit may also be issued to certain substandard risks as set forth in Section F.
+
+COMMON CARRIER ACCIDENTAL BENEFIT:
+In the 82 and subsequent policy series, all ADB riders have a common carrier death benefit. The ADB pays double if the Insured dies in an accident as fare paying passenger in a public vehicle operated by a licensed common carrier.
+
+Issue Ages | LLIC Issue Limits | All Company Participation Limits
+0-14|$ 25,000	|$ 75,000
+15-19|50,000	|100,000
+20-24|100,000	|150,000
+25-64|250,000|	250,000","RATE CLASSES =
+No Tobacco ? Super Preferred
+No Tobacco ? Preferred
+No Tobacco ? Standard Plus
+No Tobacco ? Standard
+Tobacco ? Preferred
+Tobacco ? Standard;","PRODUCT TYPE = Individual Term Life Insurance Policy (Form 1459). Premiums are level for an Initial Term of 10, 20 or 30 years."
+ LAFAYETTE LIFE INSURANCE COMPANY,Term Life Insurance Rider (ICC14 LLR-01),"ISSUE AGES=
+Term 7 and 10 ? 18 to 75
+Term 15 ? 18 to 70
+Term 20 ? 18 to 65
+Term 30 ? 18 to 55 (male and unisex tobacco are limited to age 50);",,,,"WPD BENEFIT = WPD will be included for this rider only if it is included for the base policy. When adding this rider to an existing policy, if that policy has the WPD benefit, but the Insured cannot currently qualify for WPD, the rider will not be issued.;
+ADB BENEFIT = This rider does not provide for the Accidental Death Benefit.;","DATING OF RIDER = On a new issue base plan, the rider will have the same date of issue as the base plan.
+On an existing base plan, the rider must be dated on an anniversary of the base plan.;","TERM PERIODS = Five level term periods of 7, 10, 15, 20, or 30 years. After the level term period the premiums will increase annually. Coverage will terminate at age 95.;
+NONPARTICIPATING = No Dividends;
+PLANS ON WHICH AVAILABLE =
+All five term periods are available on: Heritage 2022,
+Contender 2022, Patriot 2022, Sentinel 2022 and 10 Pay
+Life 2022 policies.
+CONVERSION ? Available through the earliest of the end of the level term period or age 65. Convertible
+For same or lesser amount as the original amount of insurance for this rider
+WPD Benefit if included in the policy to which the
+rider is attached and conversion is before age 60;
+DATING OF RIDER = On a new issue base plan, the rider will have the same date of issue as the base plan.
+On an existing base plan, the rider must be dated on an anniversary of the base plan.;","MINIMUM AMOUNT = $25,000;
+MAXIMUM AMOUNT = 12 times the face amount of the base policy to which the rider is attached;","INSPECTIONS =If the rider is being added to a new issue, the limits for regular individual plans also apply to the total of this rider and the base policy.
+If it is being added to a previously issued policy, the Inspection Report will be ordered by the Home Office, if needed.;
+SPECIAL CLASS = This rider will not be issued above Table F. The extra premium is determined by multiplying the rider premium by the percentage of extra mortality.;","RATE CLASSES = Super Preferred No Tobacco, Preferred No Tobacco, Standard No Tobacco, Preferred Tobacco, Standard Tobacco;",RIDER TYPE = Level Term Insurance;
+ LAFAYETTE LIFE INSURANCE COMPANY,Childrens Insurance Rider (ICC19 LLR-14 1901),"ISSUE AGES = CIR may be written for children?s ages 0 through 17. At issue, full protection is provided for all children more than age 5 days through 17 years. Children born after date of issue of the rider are fully covered 5 days after birth.;","PREMIUMS = Premiums are independent of age and are payable to the Insured?s age 65 or earlier termination of rider or base policy.;
+PREMIUM = The CIR annual premium per $1,000 for all Life policies, including Waiver of Premium Disability benefit, for all ages is $4.98. The annual premium per $ 1,000 without WP Disability is $4.80. The premiums for the CIR when added to Universal Life plans are found on the rate card for the plan.;",,,"PAID-UP TERM INSURANCE BENEFIT = If the Insured
+dies while the CIR rider is in force, the insurance provided by the CIR rider will be continued in force, subject to its terms, as paid-up term insurance on each Insured Child until the CIR anniversary next following the Insured Child?s 24th birthday, or the Expiry Date if earlier.;
+WAIVER OF PREMIUM DISABILITY BENEFIT =WPD will
+be included in the rider only if the base policy includes such benefit. However, when adding the CIR rider to existing policies, if the base policy has the disability benefit but the Insured cannot currently qualify for it, CIR will not be issued.;
+ACCIDENTAL DEATH BENEFIT = The CIR rider does not provide for ADB on the children.;","DATING OF RIDER = If the rider is being issued with a new
+policy, the rider will carry the same effective date as the policy. If the rider is being added to a previously existing policy, the rider must be dated on a monthly anniversary of the issue day of the existing policy. Pro-rata premium to the next premium date of the base policy must be collected; you will be notified of the amount by the Home Office;","NONFORFEITURE VALUES = The CIR rider contains no nonforfeiture values.;
+BENEFICIARY = Unless changed as provided in the base policy, the beneficiary of the CIR rider is the Insured, if living, otherwise the Insured?s Spouse, if living, otherwise the estate of the child;","AMOUNT LIMITS=
+Minimum Amount - $5,000 Maximum Amount - $25,000
+In no event may the amount of CIR insurance exceed the base policy amount.;","CONVERSION OF CHILDREN?S TERM INSURANCE=Each Insured Child may convert the term insurance provided by the CIR rider without evidence of insurability on the earlier of (a) the CIR anniversary next following his 24th birthday or (b) the Expiry Date, for an amount not more than five (5) times the amount of the CIR.
+The converted policy may be on any level premium permanent plan then regularly issued by the Company for the amount being converted. Inclusion of accidental death, waiver of premium disability, or any other supplemental benefits in the converted policy will require the consent of the Company and the furnishing of satisfactory evidence of insurability. The converted policy will have a date of issue the same as the expiration date of insurance on the Insured Child.;
+INSPECTIONS = If the rider is being added to a new issue, no Inspection Report will be required. If the rider is being added to a previously issued policy, the Inspection Report will be ordered by the Home Office if needed.;
+VOLUME CREDIT = No volume credit is granted for the addition of the CIR rider, either on new issues or previously issued policies.;
+SPECIAL CLASS = The rider may be issued providing the Insured is not issued above Table D. On previous issues, a short nonmedical on the Insured is included in the rider application. If a child is not a standard risk, the child will be excluded from the rider by way of endorsement, and no insurance credit or premium adjustment is made. If the child?s impairment is of a temporary nature, the child may later be included by satisfactory evidence of insurability and endorsement into the plan.;",,"The Children?s Insurance Rider (CIR) provides term insurance to age 24 on the children of the Insured (or to the Insured?s age 65, if earlier)."
+ LAFAYETTE LIFE INSURANCE COMPANY,"Accelerated Death Benefit Plus Rider (ICC16 LLR-08 1601)
+Not For Use in CA","ISSUE AGES=
+0-85 for Standard underwriting classes, 18-80 for Preferred underwriting classes;",,,"PAYMENT OF THE ADVANCE=
+All three qualifying events allow an advance in the form of a lump-sum payment.3 If a Chronic Illness advance is taken, the owner has the flexibility to choose between a lump-sum payment or receive periodic payments, subject to eligibility and availability as defined by the state of issue.
+Selecting the periodic payment option allows the owner to select the length of time, from 3-10 years, to receive an advance in periodic payments. No more than one election can be made for each type of qualifying event. If more than one qualifying event occurs simultaneously, we will use the qualifying event with the highest maximum advance amount to determine the available lump-sum payment.
+Once the owner begins taking either lump-sum advances or periodic payments, the owner cannot change between them. A periodic payment amount cannot be increased or decreased (other than to stop payments). If periodic payments are discontinued, they may not later be resumed. The
+owner may not choose to stop the periodic payments and then take a lump sum.
+If an advance under this rider is requested while a policy loan is outstanding, we will first apply the advance to the repayment of the loan.;","RESIDUAL DEATH BENEFIT=Provided the policy?s Death Benefit is $75,000 or greater at the time of the first advance for the last qualifying event under the Accelerated Death Benefit PLUS Rider, the Death Benefit payable will not be reduced below $10,000. However, any outstanding policy loans will reduce the Residual Death Benefit on a dollar-for-dollar basis.;
+METHOD OF THE ADVANCE=
+Advances under the Accelerated Death Benefit PLUS Rider are secured by a lien against the Death Benefit of the policy. The lien will accrue interest each year. The rate of interest on the lien will depend on the net cash value of the policy. The lien will be increased, if necessary, to keep the policy
+in effect. This includes increasing the lien to pay unpaid premiums, starting with the first month an advance is taken. Any premiums received will first be used to repay the lien. Upon the death of the insured, the Death Benefit will be reduced by the amount of the lien, including interest.
+Lien Interest Rate:
+For the portion of the outstanding lien that is less than or equal to the Net Cash Value of the policy, the Lien Interest Rate will be the lesser of:
+(a)	The Loan Interest Rate then in effect under
+the policy; or
+(b)	8%
+For any amount of the outstanding lien in excess of the Net Cash Value, the Lien Interest Rate will be the rate shown in (b) above.
+Lien interest is due and payable in arrears on the next Annual Date and on each Annual Date
+thereafter. The Lien Interest Rates vary depending on the amount of the outstanding lien.;","RIDER COMPATABILITY-The Accelerated Death Benefit PLUS Rider is available in combination with all other riders. Premiums for the Level Premium Paid-Up Additions Rider (ICC19 LLR-15 1901) and Fixed Premium Paid-Up Additions Rider (ICC19 LLR-17 1901) will no longer be allowed after an advance is taken under the Accelerated Death Benefit PLUS Rider;
+RIDER EXPENSES=There is no premium cost for the Accelerated Death Benefit PLUS Rider. We reserve the right to charge an administrative fee up to $250 per advance;","DIVIDENDS=This rider does not affect how dividends are calculated; however, policy dividends paid, if any, will be first used to repay any outstanding lien created by an advance.;",,,"UNDERWRITING CLASSES=
+The insured must meet both the age / rate class and Chronic Illness underwriting standards to qualify.
+Underwriting will screen medical histories involving recurrent or progressive conditions associated with limitations in daily functioning. Insureds who do not meet the Chronic Illness underwriting standards will receive the terminal illness Accelerated Death
+Benefit Rider (ICC16 LLR-07 1601), subject to state availability. The Accelerated Death Benefit PLUS Rider is not available for substandard classes.;","The Accelerated Death Benefit PLUS Rider (ICC16 LLR-08 1601) offers the policy owner access to
+a portion of the Death Benefit of the policy in the form of an advance if the insured is diagnosed with a qualifying medical event or condition. This rider is automatically included on all new Lafayette Life Whole Life insurance policies, subject to age, rate class, and underwriting approval."
+ LAFAYETTE LIFE INSURANCE COMPANY,"
+Accelerated Death Benefit Plus Rider (ICC16 LLR-08 1601 CA)
+For Use in CA Only",ISSUE AGES=0-85 for Standard underwriting classes 18-80 for Preferred underwriting classes;,,,"PAYMENT OF THE ADVANCE=All three qualifying events allow an advance in the form of a lump-sum payment.3 If a Chronic Illness advance is taken, the owner has the flexibility to choose between a lump-sum payment or receive periodic payments, subject to eligibility and availability as defined by the state of issue.
+Selecting the periodic payment option allows the owner to select the length of time, from 1l-10 years, to receive an advance in periodic payments. No more than one election can be made for each type of qualifying event. If more than one qualifying event occurs simultaneously, we will use the qualifying event with the highest maximum advance amount to determine the available lump-sum payment.
+Once the owner begins taking either lump-sum advances or periodic payments, the owner cannot change between them. A periodic payment amount cannot be increased or decreased (other than to stop payments). If periodic payments are discontinued, they may not later be resumed. The
+owner may not choose to stop the periodic payments and then take a lump sum.
+If an advance under this rider is requested while a policy loan is outstanding, we will first apply the advance to the repayment of the loan.;","AVAILABILITY OF BENEFITS=Benefits are available when the insured experiences
+a qualifying event or illness.;
+RESIDUAL DEATH BENEFIT=Provided the policy?s Death Benefit is $75,000 or greater at the time of the first advance for the last qualifying event under the Accelerated Death Benefit PLUS Rider, the Death Benefit payable will not be reduced below $10,000. However, any outstanding policy loans will reduce the Residual Death Benefit on a dollar-for-dollar basis.;
+METHOD OF THE ADVANCE:
+Advances under the Accelerated Death Benefit PLUS Rider are secured by a lien against the Death Benefit of the policy. The lien will accrue interest each year. The rate of interest on the lien will depend on the net cash value of the policy. The lien will be increased, if necessary, to keep the policy
+in effect. This includes increasing the lien to pay unpaid premiums, starting with the first month an advance is taken. Any premiums received will first be used to repay the lien. Upon the death of the insured, the Death Benefit will be reduced by the amount of the lien, including interest.
+Lien Interest Rate:
+For the portion of the outstanding lien that is less than or equal to the Net Cash Value of the policy, the Lien Interest Rate will be the lesser of:
+(a)	The Loan Interest Rate then in effect under
+the policy; or
+(b)	8%
+For any amount of the outstanding lien in excess of the Net Cash Value, the Lien Interest Rate will be the rate shown in (b) above.
+Lien interest is due and payable in arrears on the next Annual Date and on each Annual Date
+thereafter. The Lien Interest Rates vary depending on the amount of the outstanding lien.;
+ ","RIDER COMPATABILITY=The Accelerated Death Benefit PLUS Rider is available in combination with all other riders. Premiums for the Level Premium Paid-Up Additions Rider (ICC19 LLR-15 1901) and Fixed Premium Paid-Up Additions Rider (ICC19 LLR-17 1901) will no longer be allowed after an advance is taken under the Accelerated Death Benefit PLUS Rider.;
+RIDER EXPENSES=There is no premium cost for the Accelerated Death Benefit PLUS Rider. We reserve the right to charge an administrative fee up to $250 per advance.;","DIVIDENDS=This rider does not affect how dividends are calculated; however, policy dividends paid, if any, will be first used to repay any outstanding lien created by an advance.;",,,"UNDERWRITING CLASSES=
+The insured must meet both the age / rate class and Chronic Illness underwriting standards to qualify.
+Underwriting will screen medical histories involving recurrent or progressive conditions associated with limitations in daily functioning. Insureds who do not meet the Chronic Illness underwriting standards will receive the terminal illness Accelerated Death
+Benefit Rider (ICC16 LLR-07 1601), subject to state availability. The Accelerated Death Benefit PLUS Rider is not available for substandard classes.;","The Accelerated Death Benefit PLUS Rider (ICC16 LLR-08 1601 CA) offers the policy owner access
+to a portion of the Death Benefit of the policy in the form of an advance if the insured is diagnosed with a qualifying medical event. This rider is automatically included on all new Lafayette Life Whole Life insurance policies, subject to age, rate class, and underwriting approval."
+ LAFAYETTE LIFE INSURANCE COMPANY,Accelerated Death Benefit Rider (ICC16 LLR-07 1601),ISSUE AGES=0-85 for Standard underwriting classes 18-80 for Preferred underwriting classes;,,,"PAYMENT OF THE ADVANCE=
+A qualifying event allows an advance in the form of a lump-sum payment.1 The lump sum maximum advance amount2 available is equal to the policy?s Net Cash Value plus the lesser of (a) $250,000 or
+(b)	60% of the difference between the Death Benefit Benefit and the Net Cash Value.
+Minimum Advance Amount: $500
+If an advance under this rider is requested while a policy loan is outstanding, we will first apply the advance to the repayment of the loan.;","AVAILABILITY OF BENEFITS=Benefits are available when the insured experiences
+a qualifying illness.;
+RESIDUAL DEATH BENEFIT=
+Provided the policy?s Death Benefit is $75,000
+or greater at the time of the advance under the Accelerated Death Benefit Rider, the Death Benefit payable will not be reduced below $10,000.
+However, any outstanding policy loans will reduce the Residual Death Benefit on a dollar-for-dollar basis.;
+METHOD OF THE ADVANCE=
+Advances under the Accelerated Death Benefit Rider are secured by a lien against the Death Benefit of the policy. The lien will accrue interest each year.
+The rate of interest on the lien will depend on the net cash value of the policy. The lien will be increased, if necessary, to keep the policy in effect. This includes increasing the lien to pay unpaid premiums, starting with the first month an advance is taken.
+Any premiums received will first be used to repay the lien. Upon the death of the insured, the Death Benefit will be reduced by the amount of the lien, including interest.
+Lien Interest Rate:
+For the portion of the outstanding lien that is less than or equal to the Net Cash Value of the policy, the Lien Interest Rate will be the lesser of:
+(a)	The Loan Interest Rate then in effect under
+the policy; or
+(b)	8%
+For any amount of the outstanding lien in excess of the Net Cash Value, the Lien Interest Rate will be the rate shown in (b) above.
+Lien interest is due and payable in arrears on the next Annual Date and on each Annual Date
+thereafter. The Lien Interest Rates vary depending on the amount of the outstanding lien.;","RIDER COMPATABILITY=
+The Accelerated Death Benefit Rider is available
+in combination with all other riders. Premiums for the Level Premium Paid-Up Additions Rider (ICC19 LLR-15 1901) and Fixed Premium Paid-Up Additions Rider (ICC19 LLR-17 1901) will no longer be allowed after an advance is taken under the Accelerated Death Benefit Rider.;
+RIDER EXPENSES=
+There is no premium cost for the Accelerated Death Benefit Rider. We reserve the right to charge an administrative fee up to $250 per advance.;","DIVIDENDS=
+This rider does not affect how dividends1 are calculated; however, policy dividends paid, if any, will be first used to repay any outstanding lien created by an advance;",,,,The Accelerated Death Benefit Rider (ICC16 LLR- 07 1601) offers the policy owner access to a portion of the Death Benefit of the policy in the form of an advance if the insured is diagnosed as having a Terminal Illness. This rider is automatically included on all new Lafayette Life Whole Life insurance policies that do not qualify for the Accelerated Death Benefit Plus Rider (ICC16 LLR-08 1601).
+ LAFAYETTE LIFE INSURANCE COMPANY,"Accelerated Benefit Rider (ABR-92)
+Term Products Only",ISSUE AGES = 0 through 75;,PREMIUMS AND QDF = None;,,,"LIVING BENEFIT =Amount payable under the ABR while the Insured is still living, but suffering a Terminal Illness. It is computed by discounting or reducing the Eligible Proceeds that are exchanged.
+The discount computation depends on life expectancy of Insureds with a Terminal Illness and interest rates at time of election. The computation also considers other things
+-future premiums, future dividends, a processing charge, etc.
+The processing charge is currently $250 for the first policy and $100 for each additional policy. It will never exceed 3% of the Living Benefit.;",,"PLANS ON WHICH AVAILABLE = The ABR is available on new and existing traditional life and level term policies still in their conversion period.;
+SUBSTANDARD = The ABR is available on substandard policies.;
+","MINIMUM POLICY SIZE - The ABR can only be attached to policies with a face amount of at least $25,000.","EXCHANGE AMOUNT RULES = At least $25,000 of Eligible Proceeds must be exchanged at one time. Eligible Proceeds that remain after an exchange must be at least $10,000. Total Eligible Proceeds exchanged under all policies on the Insured may not exceed $250,000.;",,"The Accelerated Benefit Rider for traditional life (ABR) enables the Owner to advance the policy?s death benefit while the Insured is still alive, but expected to die in 12 months or less."
+ LAFAYETTE LIFE INSURANCE COMPANY,Premium Deposit Fund Max (PDF Max) (ICC19 LLR-19 1901),ISSUE AGES = 0-85;,"PREMIUMS = The minimum single premium for this rider is 3 times the annual premium of the base policy and any attached rider and the maximum single premium is 10 times the annual premium of the base policy and any attached rider, adjusted by the Premium Discount Factor. Annual premium is defined as the annual premium for the base policy and attached riders (excluding LPUA and FPUA), plus the LPUA maximum annual premium and FPUA fixed annual premium. Section 1035 amounts cannot be accepted by the PDF Max.;",,,WITHDRAWALS = No partial withdrawals may be made from the PDF Max. Only a complete withdrawal of the value from the PDF Max is permitted;,"RIDER BALANCE = The balance of the PDF Max at issue is equal to the amount of premium paid into the PDF Max. The balance is reduced each time an unpaid premium is removed from and applied to the Policy.
+The balance of the PDF Max at any given time is equal to:
+the Single Premium paid into the PDF Max at issue, minus
+the sum of all amounts removed from the PDF Max and applied to the Policy.
+The balance of the PDF Max is limited by state regulation and may never exceed the Maximum Balance as shown on the Rider Data Page. If the balance ever exceeds the limit, we will refund the excess to the client.;
+RIDER TERMINATION =PDF Max will terminate when:
+the client requests the rider be terminated,
+the PDF Max balance equals zero,
+the policy is being covered under disability waiver,
+the client takes advantage of the ADBR+ rider,
+the total premium paid under the Policy exceeds life
+insurance tax qualification limits,
+the Policy becomes a Modified Endowment Contract
+under federal tax laws,
+the Policy becomes fully paid-up due to payment of the
+final premium,
+the client takes advantage of a non-forfeiture option like extended term or reduce aid-up,
+the date of any other Rider or Policy change,
+the Insured dies,
+the policy terminates.;","POLICY TO WHICH RIDER MAY BE ATTACHED =
+Heritage 2022, Contender 2022, Patriot 2022, Sentinel
+2022 and 10 Pay Life 2022 policies;",,"HOW IT WORKS = On each Annual Date while this Rider is in force, we will compute a Premium Discount Factor. The Premium Discount Rate is printed on the Rider Data Page and is guaranteed to never change. The Premium discount rate is also guaranteed to never change.
+
+On each Annual Date while this Rider is in force, we will deduct an amount from the PDF Max equal to the Premium Discount Factor times the amount of due and unpaid premium on that Annual Date. We will credit the Policy an amount equal to the unpaid premium.
+
+If the balance of the PDF Max is insufficient to cover this amount, we will instead deduct all of the remaining amount from the PDF Max and credit to the Policy an amount equal to that amount divided by the Premium Discount Factor. This Rider will then terminate and we will send the client a bill for any remaining amount due.
+
+The difference between the amount deducted from the PDF Max and the amount credited to the Policy is gain and is taxable. We will annually send you a federal 1099- INT statement, or its replacement, showing the amount of taxable income received.;",,"The Premium Deposit Fund Max Rider (PDF Max) allows a single premium to be paid into the rider at issue to cover 3-10 years of premiums. It combines the advantages of life insurance, with the simplicity of making a single lump- sum payment. Once the lump-sum payment is submitted, Lafayette Life is able to automatically transfer the annual premium payments into the life insurance policy for your client, eliminating the need for them to pay their annual premium."
+ LAFAYETTE LIFE INSURANCE COMPANY,Premium Deposit Fund Rider (PDF) (ICC19 LLR-18 1901),ISSUE AGES ? 0 to 85 for standard and above rate classes.,,,,WITHDRAWALS = No partial withdrawals may be made from the Premium Deposit Fund. Only a complete withdrawal of the value from the Premium Deposit Fund is permitted;,"RIDER BALANCE = The balance at issue is equal to the amount of premium paid into the PDF. The balance is credited each time a premium is deposited into the fund and reduced each time a due and unpaid premium is removed and applied to the policy.
+The balance of the Premium Deposit Fund at any given time is equal to:
+The sum of all premiums paid into the Premium Deposit Fund, minus
+The sum of all amounts removed from the Premium Deposit Fund and applied to the Policy, plus
+Interest on both amounts above;
+RIDER TERMINATION = PDF will terminate when:
+The policy owner requests to terminate the rider,
+The policy becomes fully paid-up due to payment of the final premium,
+The policy is continued under a nonforfeiture option (extended term insurance or paid-up insurance),
+Upon termination of the policy to which this rider is attached,
+On the date of death of the insured.;","POLICY TO WHICH RIDER MAY BE ATTACHED =
+Heritage 2022, Contender 2022, Patriot 2022, Sentinel
+2022 and 10 Pay Life 2022 policies.",,"HOW IT WORKS = The account value of the PDF is credited an interest rate daily, which is declared periodically by the company. The credited interest rate may change from time to time. The credited interest rate will never be less than the Minimum Interest Crediting Rate (0.25%).
+
+When a premium becomes due and is unpaid, the base policy and rider modal premiums are deducted from the account value of the PDF.
+
+If the account value is not sufficient to pay the modal premium, the policy will terminate as described in the policy. The policy owner is responsible to pay the remainder of the modal premium.
+
+Interest credited to the PDF is taxable. We will annually send you a federal 1099-INT statement, or its replacement, showing the amount of taxable income received.;",,The Premium Deposit Fund Rider (PDF) provides a fund into which money can be deposited at any time for any reason. The fund earns interest and can be used to pay future premiums for the base policy and any attached riders automatically when they become due. The premium that can be paid into the fund is subject to a maximum balance covering up to two years of annual premiums.
+ LAFAYETTE LIFE INSURANCE COMPANY,Option to Purchase Additional Insurance Rider (ICC18 LLR-12 1809),ISSUE AGES= 0-37;,,,,,,,"MINIMUM ISSUE LIMIT= $5,000;
+MAXIMUM ISSUE LIMITS=Policy Issue Age:0?17|Maximum OPAI Insurance Amount ? Lesser of:5x Base Policy Face Amount or $150,000 ,Policy Issue Age:18?37|Maximum OPAI Insurance Amount ? Lesser of:Base Policy Face Amount or $150,000;","HOW IT WORKS=The OPAI rider provides the option to purchase, without evidence of insurability, additional Whole Life insurance policies on specified dates and events. Optional riders may also be eligible to be carried over to the new policy if currently attached on the base policy. For specific information, please contact the home office. To apply, all you have to do is fill out the one page OPAI Election form. If the client has waiver of premium or an accelerated death benefit rider on the original base policy, and is not currently disabled or receiving benefits under these riders, he or she can elect to carry that benefit over to the new policy;
+REGULAR ELECTION OPTIONS= For attained ages 22, 25, 28, 31, 34, 37 and 40, the insured will be granted Regular Election Option dates on the policy anniversary;
+CONTINGENT   ELECTION   OPTIONS=   For   attained
+ages 43, 46 and 49, the insured will be granted Contingent Election Option dates on the policy anniversary. The qualifications are:
+To qualify for the age 43 option, the minimum number of elections available of at least a $5,000 death benefit must have been issued and remain in force.
+To qualify for the age 46 option, the option at age 43 must be elected and remain in force, along with the minimum number of elections also remaining in force.
+To qualify for the age 49 option, the option at age 46 must be elected and remain in force, along with the minimum number of elections also remaining in force;",,"The Option to Purchase Additional Insurance (OPAI) Rider (ICC18 LLR-12 1809) provides the option to purchase, without evidence of insurability, additional insurance policies on specified dates and life events. A premium is charged for the OPAI rider and is based upon the OPAI
+Insurance Amount selected at issue. The OPAI Insurance
+Amount is subject to minimum and maximum limits."
+Americo,Eagle Premier by Americo,40-85 Nonsmoker 40-80 Smoker,Premium mode = Monthly PAC: 0.095,$40 annual policy fee (commissionable),"Policy Loans=Policy loans at a fixed 7.4% interest rate, compounded annually, may terminate the policy if loans and interest exceed cash value; state variations apply.",Full death benefit day one,"Accelerated Benefit Payment
+Rider included at no
+additional cost (Series 2146)
+Accidental Death Benefit
+Rider included at no
+additional cost (Series 2172)
+Child and Grandchild Term Rider
+is available for an additional cost
+(Series 2194)",,"Minimum: $5,000 Maximum: $40,000","Competitive Features= ?Two instant-decision processes
+available:
+- eApplication1
+- TeleApplication2
+?Simplified issue
+? Quit Smoking Advantage -
+Smokers qualify for nonsmoker rates",Underwriting Class=Nonsmoker/Smoker; Male/Female,"Nonparticipating whole life insurance with premiums payable to age 100 and 
+protection provided until the insured?s attained age 120. The policy will endow at 
+age 120 (cash value will equal the face amount at age 120)."
+Americo,Eagle Guaranteed  by Americo,50-80,Premium mode = Monthly PAC: 0.096,$40 annual policy fee (non-commissionable),"Policy Loans=Policy loans at a fixed 7.4% interest rate, compounded annually, may terminate the policy if loans and interest exceed cash value; state variations apply.","3-year graded death benefit
+Year 1: return of premium plus 5%
+Year 2: return of premium plus 10%
+Year 3: 75% of the face amount
+Year 4+: 100% of the face amount
+","Accidental Death Benefit included during the graded period at
+no additional cost
+No optional riders available.",,"Minimum: $5,000 Maximum: $15,000","Competitive Features= Two instant-decision processes
+available:
+- eApplication1
+- TeleApplication2
+? Simple application process
+? Guaranteed issue
+? Guaranteed level
+premiums for the life of
+the policy
+?Accidental Death Benefit included
+during the graded period
+at no additional cost",Underwriting Class=Male/Female,"Nonparticipating whole life insurance with premiums payable to age 100 and 
+protection provided until the insured?s attained age 120. The policy will endow at 
+age 120 (cash value will equal the face amount at age 120)."
+Americo,Universal Life CBO 100 & 50  by Americo,"Minimum Issue Age: 20
+30-Year: 55 Non-nicotine; 50 Nicotine 25-Year: 55 Non-nicotine; 50 Nicotine 20-Year: 60 Non-nicotine; 52 Nicotine 15-Year: 55 Non-nicotine; 47 Nicotine","CBO 100=
+Monthly Premium $78.75
+Cumulative Premiums $28,350 
+Cash Back $28,350
+CBO 50=
+Monthly Premium  $61.00
+Cumulative Premiums $21,960
+Cash Back $10,980
+Guaranteed Level Premium Options = 30, 25, 20, and 15 years
+Premium Modes & Modal Factors = Monthly premiums are equal to the annual premium divided by 12","$90, Fully Commissionable","Cash Back Options= Automatically added using the Enhanced Surrender Value Benefit Rider (Series 2205).
+At the end of the Cash Back Option period, depending on which product is purchased, the surrender value of the policy will be 100% or 50% of the total amount of the Cash Back Option premiums paid for the base policy, not including any premiums paid for riders.","Death Benefit= Minimum: $25,000 Maximum: $450,000 Non-medical through $450,000","The Accidental Death Benefit rider provides an additional benefit, up to age 70, if the Insured dies as a result of accidental bodily injury within 90 days of the injury.
+Rider is optional and available for an additional cost.
+
+Optional Benefits:
+-Additional Insured
+-Children - s Term (up to $15,000/child) -Disability Income (also on Additional Insured Rider) -Income Term Rider
+-Involuntary Unemployment Waiver of Premium -Waiver of Monthly Specified Premium","-100% instant decision eApplication -Simplified Issue
+-Cash Back Option at the end of the CBO period -No mortgage required
+-Living Benefit Riders (Critical, Chronic, and
+Terminal) included at no additional cost",Not Available,"Competitive Features= ?100% instant decision eApplication
+?Simplified Issue
+?Cash Back Option at the end of the CBO period
+?No mortgage required
+?Living Benefit Riders (Critical, Chronic, and
+ Terminal) included at no additional cost","Underwriting Class=Standard Non-nicotine; Standard Nicotine; Initial premiums are Unisex. A Nonsmoker classification applies 
+to anyone who has not used Nicotine products (including, but not limited to, cigarettes, cigars, pipes, 
+chewing tobacco, snuff, alternative nicotine delivery devices such as nicotine chewing gum or lozenges, 
+nicotine patches or e-cigarettes or any device used for the vaporization of liquid nicotine) for at least 
+24 months.","CBO 100 & 50 offers guaranteed level premiums for ages 20-70 (varies by term), with face amounts between $25,000 and $450,000. The policies include living benefit riders and optional riders such as Accidental Death Benefit, Additional Insured, Children's Term, Disability Income, Income Term, Involuntary Unemployment Waiver of Premium, and Waiver of Monthly Specified Premium."
+Americo,Term 125 & 100  by Americo,Minimum Issue Age: 20 30&5Year: 60 25&5Year: 65 20&5Year: 70 15&5Year: 75,"Monthly EFT: 0.095 Annual: 1.00
+Guaranteed Level Premium Options = 30-, 25-, 20-, and 15-year level premiums
+30-, 25-, 20-, and 15-year level premiums with
+5-year guarantees","$90, Fully Commissionable",,"Death Benefit= Minimum: $25,000 Maximum: $450,000 Non-medical through $450,000
+Base death benefit equals Specified Amount","An Accidental Death Benefit equal to 25% of the base death benefit will be paid if death is a result of an accident.
+An additional 25% of the base death benefit will be payable if death is the direct result of an accident while riding as a fare-paying passenger on a common carrier.
+*Not available on Term 100
+
+Optional Benefits:
+-Additional Insured
+-Children - s Term (up to $15,000/child) -Disability Income (also on Additional Insured Rider) -Income Term Rider (Term125 only) -Involuntary Unemployment Waiver of Premium -Waiver of Premium","-100% instant decision eApplication -Simplified issue
+-No mortgage required
+-Living Benefit Riders (Critical, Chronic,
+Terminal) included at no additional cost",Not Available,"Competitive Features= ?100% instant decision eApplication
+?Simplified issue
+?No mortgage required
+?Living Benefit Riders (Critical, Chronic,
+ Terminal) included at no additional cost
+Type= Term","Underwriting Class=Standard Non-nicotine; Standard Nicotine; Initial premiums are Unisex. A Nonsmoker classification applies 
+to anyone who has not used Nicotine products (including, but not limited to, cigarettes, cigars, pipes, 
+chewing tobacco, snuff, alternative nicotine delivery devices such as nicotine chewing gum or lozenges, 
+nicotine patches or e-cigarettes or any device used for the vaporization of liquid nicotine) for at least 
+24 months.","Term 125 & 100 products, available for ages 20-60 with face amounts between $25,000 and $450,000. These policies are simplified issue with non-medical underwriting and offer living benefit riders. Available riders include Additional Insured, Children's Term, Disability Income, Income Term, and Involuntary Unemployment Waiver of Premium."
+Americo,Term ADB  by Americo,Minimum Issue Age: 20 Maximum Issue Age: 60,"MonthlyEFT: 0.095 Annual: 1.00
+Guaranteed Level Premium Options = 30 years for issue ages 20 - 50
+20 years for issue ages 51 - 60",None,,"Death Benefit= $1,000 all cause death benefit
+ADB: $100,000; $150,000; $200,000; $250,000","The Accidental Death Benefit will pay if the insured dies as a direct result of an accident (in addition to the $1,000 Term Insurance Death Benefit). A common carrier benefit will pay if the insured dies as a direct result of an accident while riding as a passenger in a common carrier (in addition to the term insurance death benefit of $1,000 and the ADB). The amount of the common carrier benefit equals the ADB Coverage
+
+Optional Benefits:
+Not available",#NAME?,Not Available,"Competitive Features= ?No medical underwriting or health questions2
+?Accidental Death Benefit Rider with common
+ carrier benefit
+?Instant decision eApplication
+?Most affordable option in the Instant Decision
+ Term series
+?Ideal for younger issue ages
+Type= Term","Underwriting Class=Rates are the same for 
+Non-nicotine and Nicotine","No medical underwriting or health questions2
+Accidental Death Benefit Rider with common 
+ carrier benefit
+Instant decision eApplication
+Most affordable option in the Instant Decision 
+ Term series
+Ideal for younger issue ages"
+Americo,Decreasing Term Payment Protector  by Americo,15-Year: 20 - 75 20-Year: 20 - 70 25-Year: 20 - 65 30-Year: 20 - 60 ToAge70:20-50,Monthly EFT: 0.095 Annual: 1.00,"$90, Fully Commissionable",,"Death Benefit= Minimum: $25,000 Maximum: $450,000 Non-medical through $450,000
+A level monthly benefit will be paid until the end of the Monthly Income Death Benefit Period, but will be no less than 24 months The beneficiary can elect a lump sum payment. Payment amount calculated based on date of birth. Once monthly benefit payments begin, a lump sum benefit is no longer available.
+Guaranteed Coverage Period= 30, 25, 20, 15 years and To Age 70","An Accidental Death Benefit will pay if the insured dies as a result of an accident within 180 days of the injury. A common carrier death benefit will pay if the insured dies as a result of an accident while riding as a passenger in a common carrier. The amount of the common carrier benefit equals the amount of the accidental death benefit.
+Death Benefit: $10,000 or $25,000. Rider is optional and available for an additional cost.
+
+Optional Benefits:
+-Additional Insured (not available on To Age 70 Term Period)
+-Disability Income
+-Involuntary Unemployment Waiver of Premium -Waiver of Premium","Competitive Features =-Death benefit paid in monthly income payments -Simplified issue - no medical exams -Protection for mortgage payments
+-Income replacement solution
+-Lump sum payment available",Not Available,"Competitive Features= The policy offers a death benefit paid in monthly income payments, providing ongoing financial support and protection for mortgage payments. With a simplified issue process requiring no medical exams, it serves as an effective income replacement solution. Additionally, a lump sum payment option is available, ensuring flexibility to meet various financial needs and circumstances.","Underwriting Class=Standard Non-nicotine; Standard Nicotine; Initial premiums are Unisex. A Nonsmoker classification applies to anyone who has not used Nicotine products (including, 
+but not limited to, cigarettes, cigars, pipes, chewing tobacco, snuff, alternative nicotine delivery devices such as nicotine chewing gum or lozenges, nicotine patches or 
+e-cigarettes or any device used for the vaporization of liquid nicotine) for at least 24 months.","Death benefit paid in monthly income payments
+Simplified issue - no medical exams
+Protection for mortgage payments 
+Income replacement solution
+Lump sum payment available"
+Americo,Decreasing Whole Life Continuation 25 & 10  by Americo,15-Year: 20 - 65 20-Year: 20 - 60 25-Year: 20 - 55 30-Year: 20 - 55,Monthly EFT: 0.095 Annual: 1.00,"$90, Fully Commissionable",,"Death Benefit= Minimum: $25,000 Maximum: $450,000 Non-medical through $450,000
+The death benefit is level for 15, 20, 25, or 30 years and then is reduced to 25% or 10% of the initial face amount.
+Guaranteed Coverage Period=30, 25, 20, 15 years","An Accidental Death Benefit equal to 25% of the base death benefit will be paid if death is a result of an accident.
+An additional 25% of the base death benefit will be payable if death is the direct result of an accident while riding as a fare-paying passenger on a common carrier.
+
+Optional Benefits:
+-Additional Insured
+-Children - s Term (up to $15,000/child) -Disability Income (also on Additional Insured Rider) -Income Term Rider
+-Involuntary Unemployment Waiver of Premium -Waiver of Premium","Competitive Features= -Clients are covered for life - coverage now and in the future
+-Premiums never increase
+-Death Benefit reduces to 25% or 10% of the
+initial death benefit after initial death benefit period ends",Not Available,"Competitive Features= 
+Clients are covered for life, ensuring protection both now and in the future, with premiums that never increase. While the death benefit reduces to 25% or 10% of the initial amount, this policy provides enduring coverage and financial security.","Underwriting Class=Standard Non-nicotine; Standard Nicotine; Initial premiums are Unisex. A Nonsmoker classification applies to anyone who has not used Nicotine products (including, 
+but not limited to, cigarettes, cigars, pipes, chewing tobacco, snuff, alternative nicotine delivery devices such as nicotine chewing gum or lozenges, nicotine patches or 
+e-cigarettes or any device used for the vaporization of liquid nicotine) for at least 24 months.","Continuation 25 & 10 provides decreasing whole life insurance for ages 20-70 (varies by term), with face amounts ranging from $25,000 to $450,000. These policies feature premiums that never increase and include an accidental death benefit. Optional riders available are Accidental Death Benefit, Additional Insured, Children's Term, Disability Income, Income Term, and Involuntary Unemployment Waiver of Premium."
+Americo,Decreasing Whole Life Payment Protector Continuation 10  by Americo,15-Year: 20 - 60 20-Year: 20 - 55 25-Year: 20 - 50 30-Year: 20 - 45 ToAge70:20-50,Monthly EFT: 0.095 Annual: 1.00,"$90, Fully Commissionable",,"Death Benefit= Minimum: $25,000 Maximum: $450,000 Non-medical through $450,000
+Same as Payment Protector. However, if the Insured dies after the Monthly Income Death Benefit Period has ended, the death benefit will be payable as a lump sump payment equal to 10% of the initial lump sum death benefit.
+Guaranteed Coverage Period=30, 25, 20, 15 years and To Age 70","An Accidental Death Benefit will pay if the insured dies as a result of an accident within 180 days of the injury. A common carrier death benefit will pay if the insured dies as a result of an accident while riding as a passenger in a common carrier. The amount of the common carrier benefit equals the amount of the accidental death benefit.
+Death Benefit: $10,000 or $25,000. Rider is optional and available for an additional cost.
+
+Optional Benefits:
+-Additional Insured (not available on To Age 70 Term Period)
+-Disability Income
+-Involuntary Unemployment Waiver of Premium -Waiver of Premium","Competitive Features= -Payment Protector with a death benefit
+that is equal to 10% of the initial lump sum death benefit if the Monthly Income Death Benefit is not used
+-Permanent coverage -Premiums never increase",Not Available,"Competitive Features= 
+Clients receive permanent coverage with premiums that never increase, ensuring long-term financial security. If the Monthly Income Death Benefit is not utilized, a lump sum death benefit equal to 10% of the initial amount is provided, offering flexibility and peace of mind.","Underwriting Class=Standard Non-nicotine; Standard Nicotine; Initial premiums are Unisex. A Nonsmoker classification applies to anyone who has not used Nicotine products (including, 
+but not limited to, cigarettes, cigars, pipes, chewing tobacco, snuff, alternative nicotine delivery devices such as nicotine chewing gum or lozenges, nicotine patches or 
+e-cigarettes or any device used for the vaporization of liquid nicotine) for at least 24 months.","Payment Protector with a death benefit that is equal to 10% of the initial lump sum death benefit if the Monthly Income Death Benefit is not used
+Permanent coverage
+Premiums never increase"
+Aetna Company,"Final Expense
+Individual Whole Life Insurance",45-89,,Annual policy fee $40.,,"Accidental death=Full benefit immediately
+Non-accidental death: All policy years = full benefit
+
+Ages 45-55:
+
+Minimum Death Benefit: $2,000
+Maximum Death Benefit: $50,000
+Ages 56-65:
+
+Minimum Death Benefit: $2,000
+Maximum Death Benefit: $40,000
+Ages 66-75:
+
+Minimum Death Benefit: $2,000
+Maximum Death Benefit: $30,000
+Ages 76-89:
+
+Minimum Death Benefit: $2,000
+Maximum Death Benefit: $25,000","Benefit Riders
+Accidental Death Benefits Rider
+This rider pays 100% of the base
+policy's face amount for accidental
+death for issue ages 45 through 70.
+Children's Term Insurance Rider
+This rider provides coverage for a
+child, stepchild, legally adopted
+child, grandchild, legally adopted
+grandchild, or great grandchild.
+This benefit is available from $2,500
+up to a maximum of $10,000 per
+child, in $2,500 increments.
+Coverage amount selected will be
+the same for all covered children
+and may not exceed the face
+amount of the base policy.
+Issue ages begin at older than 30
+days through less than 18 years old.
+Policy becomes convertible to a
+whole life policy between the ages
+of 22 to 25 after two years in force.",,,"The Children's Term Insurance Rider offers coverage from $2,500 to $10,000 per child for children, stepchildren, legally adopted children, grandchildren, legally adopted grandchildren, and great-grandchildren, with coverage amount consistent for all and not exceeding the base policy's face amount. Available for issue ages from over 30 days to under 18 years, this rider allows conversion to a whole life policy between ages 22 and 25 after two years in force.","Underwriting Class=Super Preferred: Available for those who currently have an Aetna affiliated Medicare Supplement policy.
+Preferred.
+Standard.
+Underwirting Process=
+The underwriting process for Final Expense Whole Life Insurance does not require medical exams. Instead, policy issuance and plan type depend on answers to health questions in the application. Applicants aged 45-89 can qualify, with face amounts varying by age: $2,000 to $50,000 (ages 45-55), $2,000 to $40,000 (ages 56-65), $2,000 to $30,000 (ages 66-75), and $2,000 to $25,000 (ages 76-89). Based on the health questionnaire responses, applicants are placed into appropriate underwriting classes.","With so many insurance companies offering different types of insurance
+plans, we know that your choice comes down to not only benefits but
+the price that fits your budget, the company?s financial strength, service,
+reputation, reliability, and experience.
+Our unwavering commitment is to provide the best personal service
+possible, quick claims payment, quality products with solid financial
+backing, and helpful, friendly associates with extensive knowledge
+and experience.
+Our valued policyholders and their family members rely on our company
+to be there when they need us. We take those obligations very seriously.
+Everything we do is focused on fulfilling our commitments in a timely,
+hassle-free manner."
+Accendo Insurance Company,"Final Expense
+Individual Whole Life Insurance Levels plan",45-90,,Annual policy fee $40.,,"Accidental death=Full benefit immediately
+Non-accidental death: All policy years = full benefit
+
+Ages 45-55:
+
+Minimum Death Benefit: $2,000
+Maximum Death Benefit: $50,000
+Ages 56-65:
+
+Minimum Death Benefit: $2,000
+Maximum Death Benefit: $40,000
+Ages 66-75:
+
+Minimum Death Benefit: $2,000
+Maximum Death Benefit: $30,000
+Ages 76-89:
+
+Minimum Death Benefit: $2,000
+Maximum Death Benefit: $25,000","Accelerated Death Benefit Rider
+This rider pays up to 50% of the death benefit
+(less policy loan) if a physician provides written
+certification that the insured meets the
+definition for a qualifying event, which is a
+medical condition that results in a terminal,
+chronic or critical illness with a life expectancy
+of 12 months or less.
+The minimum benefit is $1,000 and the
+maximum benefit is $15,000. An administrative
+fee of $200 will be taken from the benefit
+amount.
+Accidental Death Benefits Rider
+This rider pays 100% of the base policy's face
+amount for accidental death for issue ages 40
+through 70.","Cash value flexibility
+Non-forfeiture options enable full or partial benefits or a partial refund of
+premiums after a lapse in coverage due to non-payment of premiums.
+These options allow you to decrease your risk if your policy lapses due to
+non-payment at the end of your grace period.",,"Children's Term Insurance Rider
+This rider provides coverage for a child,
+stepchild, legally adopted child, grandchild,
+legally adopted grandchild, or great
+grandchild.
+This benefit is available from $2,500 up to a
+maximum of $10,000 per child, in $2,500
+increments. Coverage amount selected will be
+the same for all covered children and may not
+exceed the face amount of the base policy.
+Issue ages begin at older than 30 days through
+less than 18 years old. Policy becomes
+convertible to a whole life policy between the
+ages of 22 to 25 after two years in force.","Underwriting Class=Super Preferred: Available to those issued an Accendo Medicare Supplement policy in the last 180 days.
+Preferred
+Standard
+Underwirting Process=The policy does not require medical exams, relying instead on a health questionnaire. Issue ages are 40-89 for level plans and 40-75 for modified plans. Coverage amounts range from $2,000 to $50,000 for level plans and up to $25,000 for modified plans. Benefits for accidental death are immediate, while non-accidental death benefits in the modified plan increase over the first two years.
+
+
+
+
+
+","With so many insurance companies offering different types of insurance
+plans, we know that your choice comes down to not only benefits but
+the price that fits your budget, the company?s financial strength, service,
+reputation, reliability, and experience.
+Our unwavering commitment is to provide the best personal service
+possible, quick claims payment, quality products with solid financial
+backing, and helpful, friendly associates with extensive knowledge
+and experience.
+Our valued policyholders and their family members rely on our company
+to be there when they need us. We take those obligations very seriously.
+Everything we do is focused on fulfilling our commitments in a timely,
+hassle-free manner.
+Accendo Insurance Company is part of the CVS Health? family
+of companies and Aetna affiliate."
+Accendo Insurance Company,"Final Expense
+Individual Whole Life Insurance Modified Plan",45 - 75,,Annual policy fee $40.,,"Full face value immediately from policy
+issue date if death is due to an accident.
+Accidental death
+Full benefit immediately
+Non-accidental death
+Policy years 1 and 2 =
+110% of earned premium
+Policy year 3 = full benefit
+
+Modified benefit amount=
+Issue age : 40-75,Min death benefit =$2,000 ,Max death benifit = $25,000","Accelerated Death Benefit Rider
+This rider pays up to 50% of the death benefit
+(less policy loan) if a physician provides written
+certification that the insured meets the
+definition for a qualifying event, which is a
+medical condition that results in a terminal,
+chronic or critical illness with a life expectancy
+of 12 months or less.
+The minimum benefit is $1,000 and the
+maximum benefit is $15,000. An administrative
+fee of $200 will be taken from the benefit
+amount.
+Accidental Death Benefits Rider
+This rider pays 100% of the base policy's face
+amount for accidental death for issue ages 40
+through 70.","Cash value flexibility
+Non-forfeiture options enable full or partial benefits or a partial refund of
+premiums after a lapse in coverage due to non-payment of premiums.
+These options allow you to decrease your risk if your policy lapses due to
+non-payment at the end of your grace period.",,"Children's Term Insurance Rider
+This rider provides coverage for a child,
+stepchild, legally adopted child, grandchild,
+legally adopted grandchild, or great
+grandchild.
+This benefit is available from $2,500 up to a
+maximum of $10,000 per child, in $2,500
+increments. Coverage amount selected will be
+the same for all covered children and may not
+exceed the face amount of the base policy.
+Issue ages begin at older than 30 days through
+less than 18 years old. Policy becomes
+convertible to a whole life policy between the
+ages of 22 to 25 after two years in force.","Underwriting Class=Super Preferred: Available to those issued an Accendo Medicare Supplement policy in the last 180 days.
+Preferred
+Standard
+Underwirting Process=The policy does not require medical exams, relying instead on a health questionnaire. Issue ages are 40-89 for level plans and 40-75 for modified plans. Coverage amounts range from $2,000 to $50,000 for level plans and up to $25,000 for modified plans. Benefits for accidental death are immediate, while non-accidental death benefits in the modified plan increase over the first two years.
+
+
+
+
+
+",Provides full face value from policy issue date if death is due to an accident.
+Prosperity Insurance Company,PrimeTerm to 100,40 - 80,"Sample Premiums (per $1,000 of coverage):
+
+Annual: $87.92 (age 65 male)
+Semi-Annual: $45.28 (modal factor 0.5150)
+Quarterly: $23.34 (modal factor 0.2650)
+Monthly: $7.91 (modal factor 0.0900)","No policy fee
+","Loan Availability: PrimeTerm to 100 has been designed as a low-cost alternative to permanent 
+insurance. Cash values are designed to be minimal to keep the premiums low. After 
+the first policy year loans are available for the full cash value less interest in advance 
+to the next anniversary. Loan interest will be at a fixed rate of 7.4% (advance) / 
+8.0% (arrears). State variations apply. Automatic premium loan option is available at 
+issue, or upon later request.
+Billing Options= Annual, Semi-Annual, Quarterly (Direct Bill); Annual, Semi-Annual, Quarterly, Monthly (EFT, Debit Card, Direct Express MasterCard)","Death Benefit:
+
+Year 1: $2,022 (115% of Year 1 annual premium)
+Year 2: $6,000 (30% of face amount for age 65)
+Year 3: $12,000 (60% of face amount for age 65)
+Years 4-20: $20,000 (full face amount)
+Years 21+: Decreases annually until expiration at age 100","Accelerated Death Benefit: Automatically included policy feature (not available in 
+CA). Provides access to an advance payment of up to 50% of the death benefit if the 
+insured is diagnosed with a terminal illness as defined in the policy (up to 12 or 24 
+months life expectancy, depending on the state). This benefit is added at no 
+additional cost, but the benefit is discounted at the time of payment because it?s an 
+early payment and an administrative fee of up to $150 is deducted. 
+Accidental Death Benefit Rider: This optional rider pays an additional benefit in the 
+event of an accidental death. The coverage amount is equal to the full face amount
+of the base policy. Available issue ages 40-74. Rider expires at age 75..","PrimeTerm to 100? is a simplified issue graded death benefit term policy, renewable
+to age 100. The death benefit is graded for the first three years, then is the full face 
+amount in years 4 through 20. At the end of the initial 20 year term, the premium 
+remains level and the death benefit decreases annually to age 100, at which time 
+the policy expires. This policy has been designed for customers who are in less-than perfect health but who have a life expectancy of several years
+
+Policy Form GBTPUECW17 (state-specific variations)
+Rider Form ADBRUECW17 (state-specific variations)","COVERAGE AMOUNTS = Minimum: $5,000 - Maximum: $30,000","APPLICATION PACKET = Please find state availability charts located on the agent portal.
+E-Application and Voice Signature applications available through LiveApp? web 
+portal. Not available in all states.","Underwirting Process=The underwriting decision is Approve/Decline/Refer based on the 3 medical 
+questions, MIB & prescription history. 
+If an underwriting determination cannot be made at point of sale, the case will be 
+withdrawn, and the customer, at their own expense, may submit complete medical 
+records for further consideration.
+Uni-Smoke rates.
+Height and weight are not part of the underwriting requirements","PrimeTerm to 100 is a simplified issue graded death benefit term policy, renewable
+to age 100. The death benefit is graded for the first three years, then is the full face 
+amount in years 4 through 20. At the end of the initial 20 year term, the premium 
+remains level and the death benefit decreases annually to age 100, at which time 
+the policy expires. This policy has been designed for customers who are in less-thanperfect health but who have a life expectancy of several years"
+Prosperity Insurance Company,New Vista Individual Whole Life Insurance,"55-80 for the Level, Graded, and Modified Plans. Age is determined by last birthday.",PREMIUM GUARANTEE & RENEWABILITY = Premium is level throughout the premium payment period. Premium paying period ends at age 121,"Policy Fees= 
+Annual: $60.00
+Semi-Annual: $30.90
+Quarterly: $15.90
+Monthly: $5.40","BILLING OPTIONS & PREMIUM MODES = Direct Bill ? Annual; Semi-Annual; Quarterly
+Recurring draft: EFT, Debit Card and Direct Express MasterCard ? Annual; Semi-Annual; Quarterly; Monthly","Death Benefit= 
+Level Plan:
+? The death benefit is equal 
+to the face amount of the 
+policy from the 1st day of 
+coverage.
+Graded Plan:
+? During the first year of 
+coverage, the death benefit is 
+equal to 30% of the face 
+amount.
+? During the second year of 
+coverage, the death benefit is 
+equal to 70% of the face 
+amount.
+? After the second year of 
+coverage, the death benefit is 
+equal to the face amount of 
+the policy.
+? In the event of Accidental 
+Death, death benefit is equal 
+to the face amount from the 
+first day of coverage.
+
+Modified Plan:
+? During the first year of 
+coverage, the death benefit is 
+equal to 110% of the annual 
+premium (excluding the policy 
+fee). 
+? During the second year of 
+coverage, the death benefit is 
+equal to 231% of the annual 
+premium (excluding the policy 
+fee). 
+? After the second year of 
+coverage, the death benefit is 
+equal to the face amount of 
+the policy. 
+? In the event of Accidental 
+Death, death benefit is equal 
+to the face amount from the 
+first day of coverage.
+
+Accidental Death Benefit not available in California:Accelerated Death Benefit is a built-in feature that allows for acceleration of up to 50% of the death 
+benefit in the event the insured is diagnosed with a Terminal Illness while the policy is in force.
+ACCELERATED DEATH 
+BENEFIT*
+(not available in California)
+Accelerated Death Benefit is a built-in feature that allows for acceleration of up to 50% of the death 
+benefit in the event the insured is diagnosed with a Terminal Illness while the policy is in force
+","An optional Accidental Death Benefit rider can be added at the time of application at 1X the base coverage 
+amount. The proposed insured must be age 74 or younger at the time of application, and the rider expires 
+at age 75. The rider can be added to all three plan types","New Vista is a series of whole life products particularly suited to the senior market. This is a simplified 
+issue product and features a three-tier classification. Customers can qualify for the Level, Graded, or 
+Modified plans based on health history.","COVERAGE AMOUNT = $5,000 to $35,000 ($35,000 aggregate max for multiple Final Expense policies on the same insured.)","FORMS See the Application Kit for state specific disclosure forms and other forms required at point of sale. 
+Application Kits are available in the Agent Portal.
+","Underwirting Process=This is a simplified issue product. For most applicants, the underwriting decision Is based on 
+height/weight, answers to the health questions and an MIB and prescription drug service call out. The 
+policy should be submitted through one of Apptical's point-of-sale underwriting methods. If an underwriting 
+determination cannot be made at point of sale, the case will be withdrawn, and the customer may submit 
+complete medical records at their own expense for further consideration.","New Vista is a series of whole life products particularly suited to the senior market. This is a simplified issue product and features a three-tier classification. Customers can qualify for the Level, Graded, or Modified plans based on health history."
+JohnHancock Insurance Company,"Simple Term 
+with Vitality","Maximum issue age of 60
+
+10-year plan : 20 ? 60
+15-year plan : 20 ? 60
+20-year plan : 20 ? 55
+25-year plan : 20 ? 45
+Renewability through age 94; must be a resident of the United States",,Monthly policy fee $6,,"Accelerated benefit = Provides a ?living benefit? if the insured is certified to be terminally ill with a life expectancy of one year or less. This provision allows the policy owner to 
+receive 50% of the eligible death benefit.
+? Available to all issue ages
+? This benefit may be added at any time, regardless of current health, provided that the following conditions are met:
+? There must be a least one year remaining in the benefit period
+? The consent of the irrevocable beneficiary (if any) is required
+? The consent of the assignee (if any) is required
+? The death benefit is reduced by the rider benefit amount plus one year?s interest at current loan rates on the benefit paid, and an administrative expense charge
+? Benefits may be taxable under current tax law. Policy owners should consult their personal tax advisors regarding the tax implications of benefits 
+received under the accelerated benefit
+? There is no charge for this rider","Return of Premium (ROP) rider =
+Provides a supplemental cash back benefit and provides a return of up to 100% of premiums paid during the level-term period
+? Available at the time of policy issue and cannot be added post issue
+? Preferred Non-Tobacco and Standard Non-Tobacco risk classes
+? Available for 25- and 30-year term durations
+? Rider premiums and benefits will cease after the level-term period
+? Premiums must be paid through the year in which the percent of the ROP grading scale is greater than zero 
+? The return-of-premium benefit will be offered in a grading scale, which scales to a maximum of 100% at the end of the level-term period
+? Rider rates will be based on the insured?s issue age, length of the level-term period, risk class, gender and band","At John Hancock, we believe life insurance should help people live longer, healthier lives. That?s why we 
+introduced John Hancock Vitality, an innovative life insurance solution that rewards people for living healthy. 
+It's easy for your clients to achieve their health goals with John Hancock Vitality PLUS. It starts with simple 
+activities like taking the stairs instead of the elevator, choosing a healthy snack or finding a few minutes to 
+meditate each day. These small changes can make a big difference in their overall health. 
+Accumulate Vitality Points
+Your clients can earn Vitality Points for their everyday healthy activities.
+Earn a Vitality Status
+Each year, the number of Vitality Points clients accumulate determines their Vitality Status 
+(Bronze, Silver, Gold or Platinum). Clients must accumulate 3,500 points to earn Silver 
+status, 7,000 points to earn Gold status and 10,000 points to earn Platinum status.
+Get rewarded
+The more your clients participate, the more points they earn, the higher their Vitality Status, 
+and the greater their rewards and discounts.","Minimum face amount $25,000
+Maximum face amount $500,000 (per life)
+
+Face amount decreases Years 1?3: No face amount reductions allowed during the first
+three policy years
+Years 4+: Any reduction allowed, starting in year 4, as long as the 
+remaining face amount is at least the contracted minimum face amount 
+of $25,000
+Note: Decreases are processed only at the policy owner?s reques","Simple Term with Vitality is one of the only instant-decision life insurance products to offer coverage up to $500,000. With 
+the optional ROP rider3, it also gives clients the opportunity to earn cash value throughout the life of their policy ? up to 
+100% of premiums paid.
+Available on 25- and 30-year term durations, the ROP rider's cash value will grow until the end of the level-term period, providing up to 
+100% cash back of total premiums paid. And if clients exit their policy before the end of the level-term period, they will still be eligible to 
+receive a cash-back benefit;
+
+Vitality program (Also referred to as the Healthy Engagement Benefit) = 
+The Vitality Group, Inc. is the administrator of the John Hancock Vitality Program:
+? The Healthy Engagement Benefit determines the total premium refund received each year based upon the status achieved by the life insured, as 
+shown: Bronze: 0%, Silver: 5%, Gold: 10%, Platinum: 15%
+? There are four Vitality Status levels; here are the point caps for each level: 
+? Bronze 0 points
+? Silver 3,500 points
+? Gold 7,000 points
+? Platinum 10,000 points 
+ The insured can earn a maximum of 18,000 points annually by engaging in the program
+? The achievement of status is dependent upon the life insured meeting the total number of points required for each status
+? The discounts and rewards will be provided only to the life insured 
+? The Vitality program will cease at the end of the term period","Underwriting Class=Preferred and Standard 
+non-tobacco risk classes
+Underwirting Process=Instant underwriting decision
+Risk classes= Preferred Non-Tobacco, Standard Non-Tobacco, Standard Tobacco, Select Non-Tobacco, Select Tobacco","? Cash back with the Return of Premium (ROP) 
+rider ? refund of up to 100% of premiums paid 
+during the level-term period (eligible for 25- and 
+30-year durations and for Preferred and Standard 
+non-tobacco risk classes) 
+? Instant underwriting decision
+? Face amounts ranging between $25,000 and 
+$500,000 
+? 10-, 15-, 20-, 25- and 30-year term durations
+? Maximum issue age of 60
+? Rewards for healthy living through John 
+Hancock Vitality PLUS, which is included with 
+every policy
+? And with John Hancock Aspire?, your 
+clients living with diabetes can earn rewards 
+for the things they do to manage their health 
+and live well.
+Product design = Level premium for 10-, 15-, 20-, 25- and 30-year term durations 
+Ownership = Individual (non-entity) with insurable interest. At policy issue, the owner of the policy must also be the insured. No trust or corporation ownership allowed"
