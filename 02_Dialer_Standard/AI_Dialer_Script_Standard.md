@@ -85,87 +85,69 @@ This is **life insurance**, not homeowners or auto. Position at all times as:
 
 ---
 
-## 6. AI Dialer Call Architecture
+## 6. AI Dialer Call Architecture (Transfer-First, Rocket Mortgage Style)
 
-The dialer compresses Stages 1–3 of the full CentraLife call architecture into a tight opening sequence designed to earn the transfer.
+The dialer is a **pivot-and-transfer machine.** No discovery. No motive isolation. No qualification. The opener bakes the transfer in. Every objection routes back to the transfer. After two refused transfers, book.
 
 | Step | Purpose | Time Target |
 |---|---|---|
-| 1. Hypothesis Opener | Establish authority + reason for call | 8–15 sec |
-| 2. Motive Isolation | One sharp open-ended question to isolate driver | 10–20 sec |
-| 3. Mini Reframe | Teach one specific thing tied to the motive | 10–20 sec |
-| 4. Transfer Attempt #1 | Assumed-frame handoff to strategist | 10 sec |
-| 5. ARP+ Objection Loop | Max 2 rebuttals per objection | as needed |
-| 6. Transfer Attempt #2 | Final assumed transfer | 10 sec |
-| 7. Two-Option Booking | If transfers refused, anchor and book | 30–60 sec |
-| 8. Confirm + Close | Lock the appointment, confirm channel | 20 sec |
+| 1. Hypothesis Opener + Assumed Transfer | Authority + reason + transfer in one breath | 10–18 sec |
+| 2. Warm Transfer Handoff | Hand to licensed strategist | 8 sec |
+| 3. ARP+ Objection Loop | Max 2 rebuttals per objection, all routing to transfer | as needed |
+| 4. Transfer Attempt #2 | Final assumed transfer | 8 sec |
+| 5. Two-Option Booking | If transfers refused, anchor and book | 30–60 sec |
+| 6. Confirm + Close | Lock the appointment | 20 sec |
 
-Total target: **2–4 minutes** for a transferred call. **3–5 minutes** for a booked appointment.
+Total target: **60–90 seconds** for a transferred call. **2–3 minutes** for a booked appointment.
+
+**Non-negotiable:** the dialer does NOT qualify, isolate motive, teach, reframe goals, or branch on `{{clientGoal}}`. That's the strategist's job once transferred.
 
 ---
 
-## 7. The Hypothesis Opener (Step 1)
+## 7. The Hypothesis Opener + Assumed Transfer (Step 1)
 
-**Structure:**
-1. Name + company/division — under 5 seconds.
-2. Reason anchored to the lead profile (multi-policy, recent quote, group-only coverage, etc.).
-3. One direct sentence that invites engagement — never a permission ask.
+**Structure (one continuous statement, no pause for permission):**
+1. Name + company — under 4 seconds.
+2. Reason anchored to the lead profile.
+3. Assumed transfer line.
 
-**Strong example pattern:**
-> "Hi {{contactFirstName}}, this is Alina with CentraLife on the life insurance side. The reason for the call — your file shows multiple active policies under separate numbers, and that setup almost always creates either overlap or a coverage gap nobody's reviewed."
+**Strong example:**
+> "Hi {{contactFirstName}}, this is Alina with CentraLife on the life insurance side. Your file shows multiple active policies under separate numbers — that setup almost always creates overlap or a gap nobody's reviewed. I've got a licensed strategist available right now to put it side by side. Stay with me one second while I bring them on."
+
+**Branching:**
+- Silence / "ok" / "sure" → Warm Transfer Handoff (Step 2).
+- Any pushback → ARP+ Loop (Step 3).
 
 **Banned in the opener:**
 - "How are you today?"
 - "Hope you're having a great day."
 - "Sorry to bother you."
 - "Is now a good time?"
+- Any open-ended motive question ("what was driving that," "tell me what mattered," etc.).
 
 ---
 
-## 8. Motive Isolation (Step 2)
+## 8. Warm Transfer Handoff (Step 2)
 
-One question. Open-ended. Sharp. Saved as `{{clientGoal}}` (or `{{customField1}}` per script spec).
+No qualification info, no `{{clientGoal}}` reference. Just the file flag and the handoff.
 
-**Standard:**
-> "When you put those policies in place, what was actually driving it — protecting the family long-term, or building cash value for yourself?"
-
-**Variants for different lead types:**
-- "Tell me what mattered most when you set those up — the death benefit side for the family, or the cash value side for you down the road."
-- "What's the heavier priority right now — making sure the family is covered if something happens, or making sure your money is working tax-efficiently long-term?"
-
-**Avoid:** binary yes/no questions, "did you ask…or was it just placed for you" style — that gives the prospect an exit and adds zero diagnostic value.
+> "Hi, I have {{contactFirstName}} on the line. File shows multiple active policies under separate numbers — pulling them in for a quick structure review. {{contactFirstName}}, you're with the licensed strategist now."
 
 ---
 
-## 9. The Mini Reframe (Step 3)
+## 9. (Reserved — motive isolation removed)
 
-One teaching beat. Tied directly to the motive they just stated. Introduces a fact or pattern they likely haven't considered.
-
-**If `{{clientGoal}}` = family / protection:**
-> "When coverage is split across separate policies, the total face amount usually doesn't match what the household actually requires once you factor in income replacement, mortgage, and dependents. The strategist's job is to put it side by side and show whether it lines up."
-
-**If `{{clientGoal}}` = cash value / growth / retirement:**
-> "Cash value performance depends on how each contract was designed — funding level, index strategy, charges. Spread across separate policies, the inefficiency compounds. The strategist will show whether the structure is actually working."
-
-**If `{{clientGoal}}` = unsure / "that's just how it was placed":**
-> "That's exactly the issue. When nobody designed it intentionally, it almost always ends up overlapping or underperforming somewhere. The review tells you which."
-
-**Reframe rules:**
-- Teach. Don't argue.
-- Use the prospect's stated motive in the reframe.
-- End with a transition — not a question that invites a no.
+The AI dialer does not isolate motive. The licensed strategist owns discovery once transferred. This section is intentionally empty to preserve numbering.
 
 ---
 
-## 10. Transfer Discipline (Steps 4 and 6)
+## 10. Transfer Discipline
 
 - Transfers are **assumed**, not requested.
-- "Stay with me one second while I bring in a licensed strategist" — that's the move.
+- "Stay with me one second while I bring them on" — baked into the opener.
 - Never "would you be open to," "can I transfer you," or "if you don't mind."
+- Every ARP rebuttal ends with "bringing them in now" or equivalent.
 - Two transfer attempts maximum. Then book.
-
-**Warm transfer handoff (verbatim pattern):**
-> "Hi, I have {{contactFirstName}} on the line. Their file shows multiple active policies under separate numbers, and the priority is {{clientGoal}}. {{contactFirstName}}, I've got you with our licensed strategist now."
 
 ---
 
@@ -307,10 +289,10 @@ A script must clear all ten. Anything less gets rewritten.
 ## 20. Non-Negotiable Summary
 
 - Life insurance, not homeowners.
+- **Transfer-first. No discovery. No motive isolation. No qualification.** The dialer pivots, the strategist closes.
 - Assumed frame, no permission language, no soft yes/no setups.
-- Hypothesis opener, not generic intro.
-- Motive isolated with one sharp open-ended question.
-- One mini-reframe that teaches.
+- Hypothesis opener with assumed transfer baked in — not a question.
+- Every ARP rebuttal routes back to the transfer.
 - Two transfer attempts, then book.
 - Two-option booking, never three.
 - Compliance-safe at all times.
